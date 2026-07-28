@@ -1,12 +1,14 @@
 ---
 type: authority
-status: interpretation
+status: canon
 spoilers: major
 authority-level: core
 great-old-one: "[[Lord of Mysteries]]"
 pathway: "[[Fool Pathway]]"
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
+source-confidence: explicit-canon
 ---
 
 # Fooling

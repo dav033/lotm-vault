@@ -1,6 +1,6 @@
 ---
 type: group-symbolism
-status: active
+status: interpretation
 spoilers: major
 great-old-one: "[[Lord of Mysteries]]"
 group: "[[Lord of Mysteries Group]]"
@@ -8,8 +8,11 @@ expressed-by:
   - "[[Fool Pathway]]"
   - "[[Door Pathway]]"
   - "[[Error Pathway]]"
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Cuttlefish WeChat - Apprentice Pathway Abilities]]"
+  - "[[Cuttlefish WeChat - Marauder Pathway Abilities]]"
+source-confidence: strong-inference
 ---
 
 # Inconceivable / Bizarreness

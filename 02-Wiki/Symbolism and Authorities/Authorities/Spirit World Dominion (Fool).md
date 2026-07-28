@@ -1,15 +1,17 @@
 ---
 type: authority
-status: interpretation
+status: canon
 spoilers: major
-authority-level: inferred-partial
+authority-level: pathway-jurisdiction
 symbolism: "[[Dominator of the Spirit World]]"
 great-old-one: "[[Lord of Mysteries]]"
 pathway: "[[Fool Pathway]]"
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
+source-confidence: explicit-canon
 ---
 
 # Spirit World Dominion
 
-Partial Fool Authority inherited from Lord of Mysteries. Fool is the group Pathway with strongest expression in Spirit World matters; it is not full Pillar dominion.
+Native Fool Pathway control over most Spirit World Authorities assigned to this Pathway. Fool is the group member with the strongest Spirit World control, but complete Pillar dominion belongs to [[Lord of Mysteries]].

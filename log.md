@@ -132,3 +132,12 @@
 - Clarified the distinction between epistemic `status` and optional lifecycle `workflow-status`.
 - Registered 20 status-migration notes and 28 invalid Sequence-9-as-Pathway links as open policy debt.
 - Recalculated [[Pending Review]] to 256 unique notes. Policy migration remains open and MUST NOT be logged as closed until the hard gate passes.
+
+# 2026-07-28 - Lord of Mysteries Sequence ability mapping expanded
+
+- Added exact official author-post source notes for completed Fool Authority, Apprentice Pathway abilities, and Marauder Pathway abilities; added separate Fandom ability inventories as unofficial English cross-checks.
+- Completed all 30 Sequence notes for Fool, Door, and Error from Sequence 9 to Sequence 0.
+- Standardized every Sequence note into separate **Explicit Powers** and **Authority → Power Mapping** sections; unmapped traits remain Powers instead of being promoted to Authorities.
+- Added Error Symbolism, Authority, and Sefirah-access maps; rebuilt Door maps with the same ontology; corrected Fool maps against the completed official Authority post.
+- Kept Puppetry, Spirit World travel, Decryption, Parasitism, and omnipresent Blink states outside independent Authority classification.
+- Updated affected hubs and indexes. Vault-wide hard gate remains open because 8 unrelated Authority maps retain invalid statuses, 19 other Pathways remain incomplete, and older semantic-link debt remains in [[Pending Review]].

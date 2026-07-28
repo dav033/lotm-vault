@@ -1,11 +1,13 @@
 ---
 type: symbolism
-status: active
+status: interpretation
 spoilers: major
 great-old-one: "[[Lord of Mysteries]]"
-pathway: "[[Seer]]"
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+pathway: "[[Fool Pathway]]"
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Fool Pathway - Ability Research]]"
+source-confidence: strong-inference
 ---
 
 # Foolishness / Blind Stupidity

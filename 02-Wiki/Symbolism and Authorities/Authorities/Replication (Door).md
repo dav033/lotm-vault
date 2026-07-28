@@ -6,8 +6,10 @@ authority-level: core
 symbolism: "[[Inconceivable and Bizarreness (Lord of Mysteries)]]"
 pathway: "[[Door Pathway]]"
 great-old-one: "[[Lord of Mysteries]]"
-source: "[[Lord of Mysteries Pathways - Secondary Reference]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Apprentice Pathway Abilities]]"
+  - "[[Lord of Mysteries Wiki - Door Pathway Abilities]]"
+source-confidence: strong-inference
 ---
 
 # Replication

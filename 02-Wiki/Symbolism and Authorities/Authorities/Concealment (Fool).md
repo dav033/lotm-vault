@@ -6,8 +6,10 @@ authority-level: partial-derived
 symbolism: "[[Inconceivable and Bizarreness (Lord of Mysteries)]]"
 great-old-one: "[[Lord of Mysteries]]"
 pathway: "[[Fool Pathway]]"
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
+source-confidence: strong-inference
 ---
 
 # Concealment

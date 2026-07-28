@@ -1,13 +1,15 @@
 ---
 type: authority
-status: interpretation
+status: canon
 spoilers: major
-authority-level: inferred-partial
+authority-level: pathway-jurisdiction
 symbolism: "[[King of Space-Time]]"
 great-old-one: "[[Lord of Mysteries]]"
 pathway: "[[Fool Pathway]]"
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: strong-inference
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
+source-confidence: explicit-canon
 ---
 
 # History

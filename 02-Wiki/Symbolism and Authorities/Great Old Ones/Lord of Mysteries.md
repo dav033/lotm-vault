@@ -2,8 +2,11 @@
 type: pillar
 status: interpretation
 spoilers: major
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Cuttlefish WeChat - Apprentice Pathway Abilities]]"
+  - "[[Cuttlefish WeChat - Marauder Pathway Abilities]]"
+source-confidence: strong-inference
 sefirah: "[[Sefirah Castle]]"
 pathway-group: "[[Lord of Mysteries Group]]"
 pathways:
@@ -18,4 +21,4 @@ symbolism:
 
 # Lord of Mysteries
 
-Pillar integrating Fool, Door, and Error through [[Sefirah Castle]]. Detailed Fool mappings: [[Fool Pathway Authority Map]].
+Pillar integrating [[Fool Pathway]], [[Door Pathway]], and [[Error Pathway]] through [[Sefirah Castle]]. See [[Lord of Mysteries Symbolism]] and [[Lord of Mysteries Authority Map]].

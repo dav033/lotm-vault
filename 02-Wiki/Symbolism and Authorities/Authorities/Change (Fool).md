@@ -5,10 +5,12 @@ spoilers: major
 authority-level: core
 great-old-one: "[[Lord of Mysteries]]"
 pathway: "[[Fool Pathway]]"
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
+source-confidence: strong-inference
 ---
 
 # Change
 
-Fool Pathway Authority-domain associated with disguise, shapeshifting, substitution, and transformation. Scoped to Fool pending comparison with other Pathways.
+Fool Pathway jurisdiction associated with Transformation and normal conceptual change. Shapeshifting is a lower Power on this line. This remains scoped to Fool and is not the complete integrated Change Symbolism of [[Lord of Mysteries]].

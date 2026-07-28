@@ -1,15 +1,17 @@
 ---
 type: authority
-status: interpretation
+status: canon
 spoilers: major
-authority-level: jurisdiction-candidate
+authority-level: pathway-jurisdiction
 symbolism: "[[Beacon of Destiny]]"
 great-old-one: "[[Lord of Mysteries]]"
 pathway: "[[Fool Pathway]]"
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
+source-confidence: explicit-canon
 ---
 
 # Anchor of Destiny
 
-Proposed Fate-related application or limited jurisdiction inferred from Fool abilities. [[Beacon of Destiny]] supplies group-level symbolic context; it does not grant an inherited Authority. Exact classification remains unsettled and is not equivalent to Key of Light's full Fate Authority.
+Fate-related jurisdiction associated with [[Beacon of Destiny]]. The Fool's Fate is difficult to alter, and the Fool's words can become future nodes whose realization may be distorted. This is not equivalent to unrestricted Fate ownership.

@@ -8,10 +8,13 @@ pathways:
   - "[[Fool Pathway]]"
   - "[[Door Pathway]]"
   - "[[Error Pathway]]"
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Cuttlefish WeChat - Apprentice Pathway Abilities]]"
+  - "[[Cuttlefish WeChat - Marauder Pathway Abilities]]"
+source-confidence: strong-inference
 ---
 
 # Sefirah Castle
 
-Sefirah of [[Lord of Mysteries]], connecting Fool, Door, and Error.
+Sefirah of [[Lord of Mysteries]], connecting [[Fool Pathway]], [[Door Pathway]], and [[Error Pathway]]. Native Pathway scope remains separate from conditional access through this Sefirah.

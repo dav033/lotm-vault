@@ -10,16 +10,24 @@ last-audited: 2026-07-28
 
 - [[Standard Pathways]]
 
-## Pathway Groups
+## Lord of Mysteries Group — Complete Sequence Maps
 
-1. [[Lord of Mysteries Group]]
-2. [[God Almighty Group]]
-3. [[Eternal Darkness Group]]
-4. [[Calamity of Destruction Group]]
-5. [[Demon of Knowledge Group]]
-6. [[Key of Light Group]]
-7. [[Father of Devils Group]]
-8. [[Goddess of Origin Group]]
-9. [[The Anarchy Group]]
+- [[Fool Pathway]] — 10 of 10
+- [[Door Pathway]] — 10 of 10
+- [[Error Pathway]] — 10 of 10
 
-Each Group Hub links its Pathway Hubs. Each Pathway Hub links its existing Sequence notes and marks missing Sequences explicitly.
+Each Sequence note separates **Explicit Powers** from **Authority → Power Mapping**.
+
+## Other Pathway Groups
+
+- [[God Almighty Group]]
+- [[Eternal Darkness Group]]
+- [[Calamity of Destruction Group]]
+- [[Demon of Knowledge Group]]
+- [[Key of Light Group]]
+- [[Father of Devils Group]]
+- [[Goddess of Origin Group]]
+- [[The Anarchy Group]]
+
+Nineteen Pathways outside the Lord of Mysteries Group still have Sequences 8–0 pending. See [[Pending Review]].
+

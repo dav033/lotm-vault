@@ -6,10 +6,13 @@ authority-level: jurisdiction-candidate
 symbolism: "[[King of Space-Time]]"
 great-old-one: "[[Lord of Mysteries]]"
 pathway: "[[Fool Pathway]]"
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Fool Pathway - Ability Research]]"
+  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
+source-confidence: probable-interpretation
 ---
 
 # Time
 
-Proposed limited Fool jurisdiction inferred from temporal effects. It is expressed through [[Fooling]], not inherited from [[King of Space-Time]] and not equivalent to full Time dominion. The Symbolism supplies group-level context only.
+Interpretive label for limited temporal effects expressed through [[Fooling]] and [[History (Fool)]]. It is not a separate unrestricted core Authority and is distinct from [[Time (Error)]].
