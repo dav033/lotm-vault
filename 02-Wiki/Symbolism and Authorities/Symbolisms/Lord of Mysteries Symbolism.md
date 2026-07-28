@@ -1,6 +1,6 @@
 ---
 type: group-symbolism-map
-status: active
+status: interpretation
 spoilers: major
 group: "[[Lord of Mysteries Group]]"
 great-old-one: "[[Lord of Mysteries]]"
@@ -9,24 +9,31 @@ pathways:
   - "[[Fool Pathway]]"
   - "[[Door Pathway]]"
   - "[[Error Pathway]]"
-source: "[[Fool Pathway - Ability Research]]"
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Cuttlefish WeChat - Apprentice Pathway Abilities]]"
+  - "[[Cuttlefish WeChat - Marauder Pathway Abilities]]"
+source-confidence: strong-inference
 ---
 
 # Lord of Mysteries Symbolism
 
-## Shared Group Symbolisms
+## Integrated Pillar Symbolisms
 
 - [[King of Space-Time]]
 - [[Beacon of Destiny]]
 - [[Dominator of the Spirit World]]
 - [[Inconceivable and Bizarreness (Lord of Mysteries)]]
 
-These are group- or Pillar-level Symbolisms. They emerge from the integrated [[Lord of Mysteries]] configuration; no individual Pathway automatically owns the whole set.
+These belong completely to the integrated [[Lord of Mysteries]] configuration. A member Pathway may contribute to or strongly express part of them without owning the whole Pillar Symbolism.
 
-## Pathway Expressions
+## Pathway Symbolism Maps
 
-- Fool: [[Fool Pathway Symbolism]]
-- Door: [[Door Pathway Symbolism]]
-- Error: pathway-specific Symbolism map pending sourced integration.
+- [[Fool Pathway Symbolism]]
+- [[Door Pathway Symbolism]]
+- [[Error Pathway Symbolism]]
 
-Control of [[Sefirah Castle]] may permit conditional cross-Pathway access. See [[Fool Sefirah Borrowing]] and [[Door Sefirah Borrowing]].
+## Access Boundary
+
+Native Pathway ownership is separate from conditional access through [[Sefirah Castle]]. See [[Fool Sefirah Borrowing]], [[Door Sefirah Borrowing]], and [[Error Sefirah Borrowing]].
+

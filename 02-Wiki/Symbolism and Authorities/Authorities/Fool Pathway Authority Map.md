@@ -5,47 +5,44 @@ spoilers: major
 great-old-one: "[[Lord of Mysteries]]"
 group: "[[Lord of Mysteries Group]]"
 pathway: "[[Fool Pathway]]"
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Fool Pathway - Ability Research]]"
+  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
+source-confidence: strong-inference
 ---
 
 # Fool Pathway Authority Map
 
-## Directly reported by the current secondary research
+## Native Authorities and Jurisdictions
 
-- [[Fooling]]
-- [[Miracles]]
-- [[Change (Fool)]]
+- [[Fooling]] — core Authority.
+- [[Reassembly (Fool)]] — core Authority also called Tampering or Grafting.
+- [[Spirit World Dominion (Fool)]] — controls most Spirit World Authority assigned to Fool, short of full Pillar dominion.
+- [[Miracles]] — Authority associated with Inconceivable/Bizarreness.
+- [[History (Fool)]] — mixed expression of King of Space-Time and Bizarreness.
+- [[Change (Fool)]] — includes Transformation and normal change expressions.
+- [[Concealment (Fool)]] — concealment within Realm of Mysteries.
+- [[Anchor of Destiny (Fool)]] — Fate-related jurisdiction associated with Beacon of Destiny.
 
-These classifications are supported only by medium-reliability community references. They are not `explicit-canon` until linked to an official high-reliability source.
+[[Time (Fool)]] and [[Fate (Fool)]] describe limited jurisdictions exercised through Fooling, History, or Anchor of Destiny. They do not imply unrestricted ownership equal to the integrated [[Lord of Mysteries]].
 
-## Interpretive Authority candidates
+## Derived Power-Domain
 
-- [[Reassembly (Fool)]] / Grafting: strong mechanical fit, but the current research note does not provide direct primary verification.
-- [[History (Fool)]], [[Time (Fool)]], and [[Fate (Fool)]]: proposed limited jurisdictions expressed through Fool abilities and [[Fooling]].
-- [[Anchor of Destiny (Fool)]]: proposed Fate-related application or jurisdiction; exact rank remains unsettled.
-- [[Spirit World Dominion (Fool)]]: proposed Pathway-level portion associated with Spirit World mechanics; full dominion belongs to the integrated [[Lord of Mysteries]] state.
-- [[Concealment (Fool)]]: proposed limited jurisdiction derived from observed concealment effects.
+- [[Puppetry (Fool)]] — derived from Spirit World control, Change, and Bizarreness. Marionettes and Spirit Body Threads are Powers/applications, not an independent Authority.
 
-[[King of Space-Time]], [[Beacon of Destiny]], [[Dominator of the Spirit World]], and [[Inconceivable and Bizarreness (Lord of Mysteries)]] provide group-level symbolic context. They do not grant inherited Authorities to the Fool Pathway.
+## Sequence Expression
 
-## Symbolisms, not Authorities
+- [[Seer]] — Divination, Spirit Vision, Danger Intuition.
+- [[Clown]] — body control, premonition, Paper Daggers.
+- [[Magician]] — Damage Transfer, substitutions, illusions, nine spell-like abilities.
+- [[Faceless]] — Shapeshifting and identity construction.
+- [[Marionettist]] — Spirit Body Threads and Marionettes.
+- [[Bizarro Sorcerer]] — Worms of Spirit, Bestowal, Marionette Interchange, Concealment.
+- [[Scholar of Yore]] — Historical Void powers.
+- [[Miracle Invoker]] — Wishes, Miracles, Resurrection, Fate jamming.
+- [[Attendant of Mysteries]] — initial Reassembly/Grafting and thread regeneration.
+- [[Fool]] — complete Pathway Authorities and conceptual applications.
 
-- [[Foolishness (Fool)]], [[Change (Fool Symbolism)]], [[Inconceivable and Bizarreness (Lord of Mysteries)]]
+Detailed Authority-to-Power relations belong in each Sequence note.
 
-## Derived power-domains, not Authorities
-
-- [[Puppetry (Fool)]] derives from [[Spirit World Dominion (Fool)]], [[Change (Fool)]], and [[Inconceivable and Bizarreness (Lord of Mysteries)]].
-
-## Sequence mapping
-
-- [[Seer]]: divination and Spirit Vision -> partial [[Spirit World Dominion (Fool)]], partial [[Fate (Fool)]]
-- [[Clown]]: body control, expression control, misdirection -> [[Fooling]]
-- [[Magician]]: illusion, substitution, Flame Jump -> [[Fooling]], [[Change (Fool)]]
-- [[Faceless]]: identity and appearance change -> [[Change (Fool)]], [[Fooling]]
-- [[Marionettist]]: Spirit Body Threads and marionettes -> [[Puppetry (Fool)]], [[Spirit World Dominion (Fool)]]
-- [[Bizarro Sorcerer]]: Worms of Spirit, marionette interchange, concealment -> [[Change (Fool)]], [[Puppetry (Fool)]], [[Concealment (Fool)]]
-- [[Scholar of Yore]]: Historical Void borrowing, projection, hiding -> [[History (Fool)]]
-- [[Miracle Invoker]]: wishes and resurrection -> [[Miracles]]; limited fate interference -> [[Fate (Fool)]]
-- [[Attendant of Mysteries]]: grafting and regeneration -> [[Reassembly (Fool)]], [[Change (Fool)]], [[Spirit World Dominion (Fool)]]
-- [[Fool]]: fooling time, history, fate, reality -> [[Fooling]], [[Time (Fool)]], [[History (Fool)]], [[Fate (Fool)]]; Grafting -> [[Reassembly (Fool)]]; miracles -> [[Miracles]]

@@ -1,15 +1,47 @@
 ---
 type: symbolism
-status: active
+status: interpretation
 spoilers: major
-pathway: "[[Apprentice]]"
+pathway: "[[Door Pathway]]"
+group: "[[Lord of Mysteries Group]]"
 great-old-one: "[[Lord of Mysteries]]"
-source: "[[Lord of Mysteries Pathways - Secondary Reference]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Apprentice Pathway Abilities]]"
+  - "[[Lord of Mysteries Wiki - Door Pathway Abilities]]"
+source-confidence: strong-inference
 ---
 
 # Door Pathway Symbolism
 
-Core concept: Door, understood as access, passage, connection, and threshold. Its primary Authorities are Space, Sealing, and Alternate Worlds.
+## Core Pathway Symbolism
 
-Door contributes to the shared [[Lord of Mysteries]] configuration through [[King of Space-Time]], [[Beacon of Destiny]], and [[Inconceivable and Bizarreness (Lord of Mysteries)]]. Operational access to [[Dominator of the Spirit World]] is conditional on control of [[Sefirah Castle]]; it is not automatic Pathway inheritance.
+- **Door** — threshold, passage, access, connection, separation, opening, and closure.
+
+The author and novel-derived material connect the Pathway to Door, alternate worlds, and space. Door is the clearest root Symbolism. Space and alternate worlds are governed conceptual fields and Authorities; they should not automatically be counted as additional root Symbolisms.
+
+## Symbolic Expressions
+
+- **Wandering** — movement beyond a fixed world or layer.
+- **Astral Passage** — access through the Astral World and Cosmos.
+- **Key** — locating and opening a valid route.
+- **Threshold between worlds** — connects or separates spaces and special realms.
+
+These are conceptual expressions seen in high-Sequence Symbolization and Conceptualization. They are not visual motifs and are not automatically independent cosmic Symbolisms.
+
+## Authorities Produced or Supported
+
+- [[Door (Door Pathway)]]
+- [[Space (Door)]]
+- [[Sealing (Door)]]
+- [[Alternate Worlds (Door)]]
+- [[Position (Door)]]
+- [[Replication (Door)]]
+
+See [[Door Pathway Authority Map]] for evidence level and Sequence expressions.
+
+## Group Boundary
+
+[[King of Space-Time]], [[Beacon of Destiny]], [[Dominator of the Spirit World]], and [[Inconceivable and Bizarreness (Lord of Mysteries)]] belong to the integrated [[Lord of Mysteries]] configuration. Door contributes to that whole but does not natively own every Pillar Symbolism.
+
+Spirit World travel is [[Spirit World Access (Door)]], a mechanism and Power-domain. It is not complete Spirit World dominion.
+

@@ -1,38 +1,34 @@
 ---
 type: symbolism
-status: active
+status: interpretation
 spoilers: major
+pathway: "[[Fool Pathway]]"
+group: "[[Lord of Mysteries Group]]"
 great-old-one: "[[Lord of Mysteries]]"
-pathway: "[[Seer]]"
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Fool Pathway - Ability Research]]"
+  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
+source-confidence: strong-inference
 ---
 
 # Fool Pathway Symbolism
 
-## Confirmed conceptual Symbolisms
+## Core and Strongly Expressed Symbolisms
 
-- [[Foolishness (Fool)]] / Blind Stupidity: basis of [[Fooling]].
-- [[Change (Fool Symbolism)]]: basis of [[Change (Fool)]] and, with Bizarreness, [[Reassembly (Fool)]].
-- [[Inconceivable and Bizarreness (Lord of Mysteries)]]: shared group-level Symbolism strongly expressed through Fool; supports Miracles, Reassembly, and Concealment expressions.
+- [[Foolishness (Fool)]] / Blind Stupidity — basis of [[Fooling]].
+- [[Change (Fool Symbolism)]] — understandable change; supports Transformation and combines with Bizarreness in Reassembly.
+- [[Inconceivable and Bizarreness (Lord of Mysteries)]] — shared high-level Symbolism strongly expressed through Fool; supports Reassembly, Miracles, and Realm of Mysteries.
 
-These are abstract concepts, not visual emblems. Bizarreness is a high-level Lord of Mysteries Symbolism strongly expressed through Fool; it must not be treated as exclusive to a low-Sequence ability.
+These are concepts, not visual emblems. [[Fool Pathway Sigil - Secrecy]] records a visual association only.
 
-## Excluded from core list
+## Authorities and Applications
 
-[[Fool Pathway Sigil - Secrecy]] records a visual Pathway-sigil association only. It is not a confirmed root Symbolism.
+Fooling, Reassembly, Miracles, History, Spirit World control, Transformation, Realm of Mysteries, and Anchor of Destiny are Authorities, jurisdictions, or applications. They are mapped in [[Fool Pathway Authority Map]] rather than promoted into additional root Symbolisms.
 
-King of Space-Time, Beacon of Destiny, and Dominator of the Spirit World belong to [[Lord of Mysteries]] at Pillar level, not Fool Pathway alone.
+Puppetry and Marionettes are derived Powers using Spirit World control, Change, and Bizarreness. They are not Symbolisms or independent Authorities.
 
-See [[Fool Sefirah Borrowing]] for conditional access through [[Sefirah Castle]]. This access belongs to a qualified holder and must not be modeled as automatic inheritance by the Fool Pathway.
+## Group Boundary
 
-## Higher-level Symbolic expressions
+[[King of Space-Time]], [[Beacon of Destiny]], and [[Dominator of the Spirit World]] belong completely to [[Lord of Mysteries]] at Pillar level. Fool can express portions through native Authorities or conditional [[Sefirah Castle]] access but does not inherit the whole set automatically.
 
-- [[Foolishness (Fool)]] / Blind Stupidity: Sequence 0 symbol in Mind Domain; corresponds to [[Fooling]].
-- [[Inconceivable and Bizarreness (Lord of Mysteries)]]: shared high-level Symbolism strongly expressed through Fool; together with [[Change (Fool Symbolism)]], basis of [[Reassembly (Fool)]].
-
-## Not Symbolisms
-
-Divination, disguise, historical projection, Marionettes, Grafting, and wishes are powers or Authority applications.
-
-History, Time, Fate, Change, and Concealment appear as partial jurisdictions under [[Fooling]], not five independent root Symbolisms for Fool. King of Space-Time belongs to [[Lord of Mysteries]] at Pillar level, not Fool Pathway alone.
