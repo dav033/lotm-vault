@@ -7,9 +7,11 @@ sequence-9: "[[Marauder]]"
 group: "[[Lord of Mysteries Group]]"
 great-old-one: "[[Lord of Mysteries]]"
 sefirah: "[[Sefirah Castle]]"
-sequence-map-status: pending
-source: "[[Lord of Mysteries Pathways - Secondary Reference]]"
-source-confidence: medium-secondary
+sequence-map-status: complete
+sources:
+  - "[[Cuttlefish WeChat - Marauder Pathway Abilities]]"
+  - "[[Lord of Mysteries Wiki - Error Pathway Abilities]]"
+source-confidence: strong-inference
 ---
 
 # Error Pathway
@@ -22,13 +24,15 @@ source-confidence: medium-secondary
 
 ## Sequences
 
-- [[Marauder]]
-- Sequences 8–0 pending full integration.
+[[Marauder]] · [[Swindler]] · [[Cryptologist]] · [[Prometheus]] · [[Dream Stealer]] · [[Parasite]] · [[Mentor of Deceit]] · [[Trojan Horse of Destiny]] · [[Worm of Time]] · [[Error]]
+
+Every Sequence note separates **Explicit Powers** from **Authority → Power Mapping**.
 
 ## Knowledge Map
 
+- Pathway Symbolism: [[Error Pathway Symbolism]]
+- Pathway Authority Map: [[Error Pathway Authority Map]]
+- Conditional Sefirah Access: [[Error Sefirah Borrowing]]
 - Group Symbolism: [[Lord of Mysteries Symbolism]]
 - Group Authority Map: [[Lord of Mysteries Authority Map]]
-- Pathway Symbolism: pending sourced integration.
-- Pathway Authority Map: pending sourced integration.
-- Conditional Sefirah Access: pending sourced integration.
+

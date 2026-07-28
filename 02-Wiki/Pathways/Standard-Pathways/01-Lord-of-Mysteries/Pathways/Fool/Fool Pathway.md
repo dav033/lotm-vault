@@ -8,8 +8,11 @@ group: "[[Lord of Mysteries Group]]"
 great-old-one: "[[Lord of Mysteries]]"
 sefirah: "[[Sefirah Castle]]"
 sequence-map-status: complete
-source: "[[Fool Pathway - Ability Research]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
+  - "[[Fool Pathway - Ability Research]]"
+  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
+source-confidence: strong-inference
 ---
 
 # Fool Pathway
@@ -24,10 +27,13 @@ source-confidence: medium-secondary
 
 [[Seer]] · [[Clown]] · [[Magician]] · [[Faceless]] · [[Marionettist]] · [[Bizarro Sorcerer]] · [[Scholar of Yore]] · [[Miracle Invoker]] · [[Attendant of Mysteries]] · [[Fool]]
 
+Every Sequence note separates **Explicit Powers** from **Authority → Power Mapping**.
+
 ## Knowledge Map
 
-- Group Symbolism: [[Lord of Mysteries Symbolism]]
-- Group Authority Map: [[Lord of Mysteries Authority Map]]
 - Pathway Symbolism: [[Fool Pathway Symbolism]]
 - Pathway Authority Map: [[Fool Pathway Authority Map]]
 - Conditional Sefirah Access: [[Fool Sefirah Borrowing]]
+- Group Symbolism: [[Lord of Mysteries Symbolism]]
+- Group Authority Map: [[Lord of Mysteries Authority Map]]
+
