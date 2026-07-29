@@ -2,13 +2,17 @@
 type: authority
 status: interpretation
 spoilers: major
-authority-level: core
-great-old-one: "[[Eternal Darkness]]"
-pathway: "[[Darkness Pathway]]"
-source: "[[Eternal Darkness - Research Dossier]]"
+sources:
+  - "[[Lord of Mysteries Wiki - Eternal Darkness Symbols, Authorities and Abilities]]"
+  - "[[Eternal Darkness - Research Dossier]]"
 source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Darkness Pathway (disambiguation)]]"
+great-old-one: "[[Eternal Darkness]]"
+symbolism-mapping: unresolved
+derivation-confidence: unresolved
 ---
 
-# Misfortune and Catastrophe
+# Misfortune and Catastrophe (Darkness)
 
-Darkness Pathway Authority over misfortune and catastrophe. It is distinct from [[Calamity (Tyrant)]] and the wider [[Catastrophe]] domain of [[Calamity of Destruction]].
+Misfortune and Catastrophe is the [[Darkness Pathway (disambiguation)]] Authority over adverse probability and calamity. It does not establish ownership of every fate- or disaster-related effect.

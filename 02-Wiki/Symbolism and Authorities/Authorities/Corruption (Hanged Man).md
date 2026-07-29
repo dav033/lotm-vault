@@ -2,13 +2,17 @@
 type: authority
 status: interpretation
 spoilers: major
-authority-level: partial
-great-old-one: "[[God Almighty]]"
-pathways: ["[[Hanged Man Pathway]]"]
-source: "[[God Almighty Group - Research Dossier]]"
+source: "[[Lord of Mysteries Wiki - God Almighty Symbols, Authorities and Abilities]]"
 source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Hanged Man Pathway (disambiguation)|Hanged Man Pathway]]"
+great-old-one: "[[God Almighty]]"
+symbolism-mapping: unresolved
+derivation-confidence: unresolved
 ---
 
 # Corruption (Hanged Man)
 
-Hanged Man partial Authority of corruptive profanation. Distinct from [[Corruption]] of Abyss.
+The supplied Fandom source lists partial Authority over Corruption among the Authorities of the [[Hanged Man Pathway (disambiguation)|Hanged Man Pathway]].
+
+Related group: [[God Almighty Group]].

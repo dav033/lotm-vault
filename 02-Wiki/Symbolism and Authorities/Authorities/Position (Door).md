@@ -2,16 +2,22 @@
 type: authority
 status: interpretation
 spoilers: major
-authority-level: inferred-partial
-symbolism: "[[Beacon of Destiny]]"
-pathway: "[[Door Pathway]]"
+source: "[[Lord of Mysteries Wiki - Symbols, Authorities and Abilities]]"
+source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Door Pathway (disambiguation)]]"
 great-old-one: "[[Lord of Mysteries]]"
-sources:
-  - "[[Cuttlefish WeChat - Apprentice Pathway Abilities]]"
-  - "[[Lord of Mysteries Wiki - Door Pathway Abilities]]"
-source-confidence: strong-inference
+symbolisms:
+  - "[[Position (Door Symbolism)]]"
+derivation-confidence: reported-secondary
 ---
 
-# Position
+# Position (Door)
 
-Door Authority over locating, fixing, obscuring, and affecting position. Partial expression of [[Beacon of Destiny]].
+The supplied Fandom source includes Position among the Fool, Error, or Door Pathway’s reported Authority and surface-symbolism labels. This vault records it as a Pathway-level Authority pending official/high verification.
+
+Related group: [[Lord of Mysteries Group]].
+
+## Symbolic Derivation
+
+This Authority is the operational expression of [[Position (Door Symbolism)]].

@@ -2,15 +2,22 @@
 type: authority
 status: interpretation
 spoilers: major
-authority-level: core
-pathway: "[[Door Pathway]]"
+source: "[[Lord of Mysteries Wiki - Symbols, Authorities and Abilities]]"
+source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Door Pathway (disambiguation)]]"
 great-old-one: "[[Lord of Mysteries]]"
-sources:
-  - "[[Cuttlefish WeChat - Apprentice Pathway Abilities]]"
-  - "[[Lord of Mysteries Wiki - Door Pathway Abilities]]"
-source-confidence: strong-inference
+symbolisms:
+  - "[[Door (Symbolism)]]"
+derivation-confidence: reported-secondary
 ---
 
-# Alternate Worlds
+# Alternate Worlds (Door)
 
-Door Authority over access to and creation of alternate spaces and worlds.
+The supplied Fandom source includes Alternate Worlds among the Fool, Error, or Door Pathway’s reported Authority and surface-symbolism labels. This vault records it as a Pathway-level Authority pending official/high verification.
+
+Related group: [[Lord of Mysteries Group]].
+
+## Symbolic Derivation
+
+The available sources place Alternate Worlds under [[Door (Symbolism)]].

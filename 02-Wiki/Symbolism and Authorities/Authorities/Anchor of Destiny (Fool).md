@@ -1,17 +1,23 @@
 ---
 type: authority
-status: canon
+status: interpretation
 spoilers: major
-authority-level: pathway-jurisdiction
-symbolism: "[[Beacon of Destiny]]"
+source: "[[Lord of Mysteries Wiki - Symbols, Authorities and Abilities]]"
+source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Fool Pathway (disambiguation)]]"
 great-old-one: "[[Lord of Mysteries]]"
-pathway: "[[Fool Pathway]]"
-sources:
-  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
-  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
-source-confidence: explicit-canon
+symbolisms:
+  - "[[Beacon of Destiny]]"
+derivation-confidence: reported-secondary
 ---
 
-# Anchor of Destiny
+# Anchor of Destiny (Fool)
 
-Fate-related jurisdiction associated with [[Beacon of Destiny]]. The Fool's Fate is difficult to alter, and the Fool's words can become future nodes whose realization may be distorted. This is not equivalent to unrestricted Fate ownership.
+The supplied Fandom source includes Anchor of Destiny among the Fool, Error, or Door Pathway’s reported Authority and surface-symbolism labels. This vault records it as a Pathway-level Authority pending official/high verification.
+
+Related group: [[Lord of Mysteries Group]].
+
+## Symbolic Derivation
+
+The available author material places Anchor of Destiny under [[Beacon of Destiny]].

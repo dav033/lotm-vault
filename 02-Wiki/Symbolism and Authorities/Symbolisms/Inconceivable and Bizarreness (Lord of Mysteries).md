@@ -1,20 +1,17 @@
 ---
-type: group-symbolism
+type: symbolism
 status: interpretation
 spoilers: major
-great-old-one: "[[Lord of Mysteries]]"
-group: "[[Lord of Mysteries Group]]"
-expressed-by:
-  - "[[Fool Pathway]]"
-  - "[[Door Pathway]]"
-  - "[[Error Pathway]]"
-sources:
-  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
-  - "[[Cuttlefish WeChat - Apprentice Pathway Abilities]]"
-  - "[[Cuttlefish WeChat - Marauder Pathway Abilities]]"
-source-confidence: strong-inference
+source: "[[Lord of Mysteries Wiki - Symbols, Authorities and Abilities]]"
+source-confidence: medium-secondary
+owner: "[[Lord of Mysteries]]"
 ---
 
-# Inconceivable / Bizarreness
+# Inconceivable and Bizarreness (Lord of Mysteries)
 
-Shared Lord of Mysteries group Symbolism. It is strongly expressed through Fool, enables Door's unusual Replication, and participates in higher group-level combinations. It must not be modelled as property of Fool alone.
+The supplied Fandom source groups “Inconceivable” and “Bizarreness” as a Lord of Mysteries symbolism. Its terminology and exact metaphysical scope are retained as a secondary-source interpretation.
+
+## Scope
+
+- Owner context: [[Lord of Mysteries]]
+- Related Symbolism: [[Change (Lord of Mysteries)]]

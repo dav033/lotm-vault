@@ -5,7 +5,7 @@ spoilers: major
 great-old-one: "[[Key of Light]]"
 sefirah: "[[Key of Light Sefirah]]"
 pathways:
-  - "[[Wheel of Fortune Pathway]]"
+  - "[[Wheel of Fortune Pathway (disambiguation)|Wheel of Fortune Pathway]]"
 source: "[[Key of Light - Research Dossier]]"
 source-confidence: medium-secondary
 ---
@@ -19,9 +19,9 @@ source-confidence: medium-secondary
 
 ## Member Pathways
 
-- [[Wheel of Fortune Pathway]]
+- [[Wheel of Fortune Pathway (disambiguation)|Wheel of Fortune Pathway]]
 
 ## Knowledge Maps
 
-- [[Key of Light Symbolism]]
-- [[Key of Light Authority Map]]
+- [[Fate of the Original Creator]] · [[Endless Disorder]] · [[Incarnation of Fate]] · [[Return (Key of Light)]] · [[Light Cone]]
+- [[Fate (Wheel of Fortune)]] · [[Probability (Wheel of Fortune)]] · [[Cycle (Wheel of Fortune)]] · [[Disorder (Wheel of Fortune)]]

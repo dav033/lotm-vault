@@ -1,16 +1,26 @@
 ---
 type: authority
-status: canon
+status: interpretation
 spoilers: major
-authority-level: core
+source: "[[Lord of Mysteries Wiki - Symbols, Authorities and Abilities]]"
+source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Fool Pathway (disambiguation)]]"
 great-old-one: "[[Lord of Mysteries]]"
-pathway: "[[Fool Pathway]]"
-sources:
-  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
-  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
-source-confidence: explicit-canon
+symbolisms:
+  - "[[Fooling (Fool Symbolism)]]"
+derivation-confidence: reported-secondary
 ---
 
 # Fooling
 
-Core Fool Pathway Authority: fooling perceptions, phenomena, and at godhood higher concepts. Blind Stupidity/Foolishness is related Symbolism, not separate Authority.
+The supplied Fandom source treats Fooling as the corresponding expression of the [[Fool Pathway (disambiguation)]]. This vault classifies it as an Authority, distinct from the conceptual Symbolism [[Foolishness (Fool)]].
+
+## Scope
+
+- Group: [[Lord of Mysteries Group]]
+
+## Symbolic Derivation
+
+The author material gives this Authority a corresponding [[Fooling (Fool Symbolism)]].
+- Counter classification: [[Lord of Mysteries Group Counters]]

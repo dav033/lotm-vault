@@ -2,13 +2,17 @@
 type: authority
 status: interpretation
 spoilers: major
-authority-level: core
-great-old-one: "[[God Almighty]]"
-pathways: ["[[Tyrant Pathway]]"]
-source: "[[God Almighty Group - Research Dossier]]"
+source: "[[Lord of Mysteries Wiki - God Almighty Symbols, Authorities and Abilities]]"
 source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Tyrant Pathway (disambiguation)|Tyrant Pathway]]"
+great-old-one: "[[God Almighty]]"
+symbolism-mapping: unresolved
+derivation-confidence: unresolved
 ---
 
 # Calamity (Tyrant)
 
-Tyrant Authority over natural disasters. It is not automatically identical to Demoness Catastrophe or Red Priest Disaster.
+The supplied Fandom source lists Calamities among the Authorities of the [[Tyrant Pathway (disambiguation)|Tyrant Pathway]].
+
+Related group: [[God Almighty Group]].

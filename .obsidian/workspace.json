@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "02db0a124aaf32ff",
+        "id": "90b96c2662751fc4",
         "type": "tabs",
         "children": [
           {
-            "id": "39d14c75a218ff79",
+            "id": "a72622575fa774af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Wiki/Symbolism and Authorities/Symbolism and Authorities.md",
+                "file": "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/01-Fool/Sequences/Attendant of Mysteries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Symbolism and Authorities"
-            }
-          },
-          {
-            "id": "9580599ab1886812",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Attendant of Mysteries"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 393.5
   },
   "right": {
     "id": "bd98cc6ff3cec6e7",
@@ -191,43 +180,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9580599ab1886812",
+  "active": "82af11e93ec3e14c",
   "lastOpenFiles": [
-    "02-Wiki/Symbolism and Authorities/Symbolisms/Error Sefirah Borrowing.md",
-    "02-Wiki/Symbolism and Authorities/Authorities/Error Pathway Authority Map.md",
-    "02-Wiki/Symbolism and Authorities/Symbolisms/Error Pathway Symbolism.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Error/Sequences/Error.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Error/Sequences/Worm of Time.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Error/Sequences/Trojan Horse of Destiny.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Error/Sequences/Mentor of Deceit.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Error/Sequences/Parasite.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Error/Sequences/Dream Stealer.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Error/Sequences/Prometheus.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Error/Sequences/Cryptologist.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Error/Sequences/Swindler.md",
-    "02-Wiki/Symbolism and Authorities/Authorities/Fate (Error).md",
-    "02-Wiki/Symbolism and Authorities/Authorities/Time (Error).md",
-    "02-Wiki/Symbolism and Authorities/Authorities/Deceit (Error).md",
-    "02-Wiki/Symbolism and Authorities/Authorities/Theft (Error).md",
-    "02-Wiki/Symbolism and Authorities/Authorities/Error (Error Pathway).md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Door/Sequences/Door.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Door/Sequences/Key of Stars.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Door/Sequences/Planeswalker.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Door/Sequences/Wanderer.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Door/Sequences/Secrets Sorcerer.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Door/Sequences/Traveler.md",
+    "02-Wiki/Pathways/Standard-Pathways/04-Calamity-of-Destruction/Pathways/12-Demoness/Sequences/0 - Demoness.md.tmp.21468.53100b5a13c3",
+    "02-Wiki/Pathways/Standard-Pathways/04-Calamity-of-Destruction/Pathways/12-Demoness/Sequences/0 - Demoness.md.tmp.21468.8c39a5cd67a9",
+    "02-Wiki/Pathways/Standard-Pathways/04-Calamity-of-Destruction/Pathways/12-Demoness/Sequences/1 - Apocalypse.md.tmp.21468.16fbac3ee650",
+    "02-Wiki/Pathways/Standard-Pathways/04-Calamity-of-Destruction/Pathways/12-Demoness/Sequences/1 - Apocalypse.md.tmp.21468.c680ff8b3649",
+    "02-Wiki/Pathways/Standard-Pathways/04-Calamity-of-Destruction/Pathways/12-Demoness/Sequences/2 - Catastrophe.md.tmp.21468.e1f434b20dea",
+    "02-Wiki/Pathways/Standard-Pathways/04-Calamity-of-Destruction/Pathways/12-Demoness/Sequences/2 - Catastrophe.md.tmp.21468.4418c390a411",
+    "02-Wiki/Pathways/Standard-Pathways/04-Calamity-of-Destruction/Pathways/12-Demoness/Sequences/3 - Unaging.md.tmp.21468.9422b26a5057",
+    "02-Wiki/Pathways/Standard-Pathways/04-Calamity-of-Destruction/Pathways/12-Demoness/Sequences/3 - Unaging.md.tmp.21468.22c9c0951b9c",
+    "02-Wiki/Pathways/Standard-Pathways/04-Calamity-of-Destruction/Pathways/12-Demoness/Sequences/4 - Despair.md.tmp.21468.36121d4cdcba",
+    "02-Wiki/Pathways/Standard-Pathways/04-Calamity-of-Destruction/Pathways/12-Demoness/Sequences/4 - Despair.md.tmp.21468.7f61a0ccd9ca",
+    "02-Wiki/Pathways/Standard-Pathways/04-Calamity-of-Destruction/Pathways/12-Demoness/Sequences/5 - Affliction.md.tmp.21468.5c0cee85df17",
+    "02-Wiki/Symbolism and Authorities/Authorities/Grazing (Hanged Man).md",
+    "02-Wiki/Symbolism and Authorities/Authorities/Filth (Hanged Man).md",
+    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/01-Fool/Fool Pathway (disambiguation).md",
     "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Door/Sequences/Scribe.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Door/Sequences/Astrologer.md",
-    "02-Wiki/Pathways/Standard-Pathways/01-Lord-of-Mysteries/Pathways/Door/Sequences/Trickmaster.md",
-    "02-Wiki/Symbolism and Authorities/Cross-Group States",
-    "05-Review/Deprecated Nodes",
-    "02-Wiki/Symbolism and Authorities/Visual Representations",
-    "02-Wiki/Pathways/Standard-Pathways/07-Father-of-Devils/Pathways/Chained/Sequences",
-    "02-Wiki/Pathways/Standard-Pathways/07-Father-of-Devils/Pathways/Abyss/Sequences",
-    "02-Wiki/Pathways/Standard-Pathways/07-Father-of-Devils/Pathways/Chained",
-    "02-Wiki/Pathways/Standard-Pathways/07-Father-of-Devils/Pathways/Abyss",
-    "02-Wiki/Pathways/Standard-Pathways/07-Father-of-Devils/Pathways",
-    "02-Wiki/Pathways/Standard-Pathways/03-Eternal-Darkness/Pathways/Twilight Giant/Sequences",
-    "02-Wiki/Pathways/Standard-Pathways/03-Eternal-Darkness/Pathways/Death/Sequences"
+    "05-Review/Contributors to Lord of the Mysteries Wiki.md",
+    "05-Review/Deprecated Nodes/Miracles.md",
+    "04-Indexes/Symbolism and Authorities.md",
+    "02-Wiki/Sefirot/Brood Hive.md",
+    "02-Wiki/Sefirot/Tenebrous World.md",
+    "02-Wiki/Sefirot/Key of Light Sefirah.md",
+    "02-Wiki/Sefirot/City of Calamity.md",
+    "02-Wiki/Sefirot/Chaos Sea.md",
+    "02-Wiki/Symbolism and Authorities/Authorities/Sealing (Door).md",
+    "02-Wiki/Symbolism and Authorities/Authorities/Door (Door Pathway).md",
+    "02-Wiki/Symbolism and Authorities/Authorities/Fate (Fool).md",
+    "02-Wiki/Symbolism and Authorities/Powers/Spirit World Access (Door).md",
+    "02-Wiki/Symbolism and Authorities/Powers/Concealment (Fool).md",
+    "02-Wiki/Symbolism and Authorities/Powers/Concealment (Door).md",
+    "02-Wiki/Symbolism and Authorities/Authorities/Change (Fool).md",
+    "01-Sources/Lord of Mysteries Wiki - Red Priest Pathway Abilities.md",
+    "01-Sources/Lord of Mysteries Wiki - Twilight Giant Pathway Abilities.md",
+    "01-Sources/Lord of Mysteries Wiki - White Tower Pathway Abilities.md",
+    "01-Sources/Lord of Mysteries Wiki - Mother Pathway Abilities.md",
+    "01-Sources/Lord of Mysteries Wiki - Tyrant Pathway Abilities.md",
+    "02-Wiki/Pathways/Standard-Pathways/09-The-Anarchy/Pathways/22-Justiciar/Sequences/8 - Sheriff.md"
   ]
 }

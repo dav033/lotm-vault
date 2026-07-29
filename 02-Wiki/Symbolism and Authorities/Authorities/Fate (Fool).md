@@ -1,18 +1,18 @@
 ---
-type: authority
+type: jurisdiction
 status: interpretation
 spoilers: major
-authority-level: jurisdiction-candidate
-symbolism: "[[Beacon of Destiny]]"
-great-old-one: "[[Lord of Mysteries]]"
-pathway: "[[Fool Pathway]]"
+pathway: "[[Fool Pathway (disambiguation)]]"
+group: "[[Lord of Mysteries Group]]"
 sources:
   - "[[Cuttlefish WeChat - Completed Fool Authority]]"
   - "[[Fool Pathway - Ability Research]]"
-  - "[[Lord of Mysteries Wiki - Fool Pathway Abilities]]"
+  - "[[Lord of Mysteries Wiki - Symbols, Authorities and Abilities]]"
 source-confidence: probable-interpretation
 ---
 
-# Fate
+# Fate (Fool)
 
-Interpretive label for limited Fate effects expressed through [[Fooling]] and [[Anchor of Destiny (Fool)]]. It is not a separate unrestricted core Authority. Distinct from [[Fate]], Key of Light's core Authority.
+This is a restricted interpretive jurisdiction for limited Fate effects expressed through [[Fooling]] and [[Anchor of Destiny (Fool)]]. It is not a standalone unrestricted Authority and does not imply the broad Fate jurisdiction of [[Fate (Wheel of Fortune)]] or the Error Pathway's [[Destiny (Error)]].
+
+The exact boundary of this Fool jurisdiction remains unsettled. It is tracked in [[Symbolism to Authority Derivations#Restricted Lord of Mysteries Interpretations]].

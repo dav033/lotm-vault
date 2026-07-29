@@ -2,14 +2,16 @@
 type: symbolism
 status: interpretation
 spoilers: major
-great-old-one: "[[Lord of Mysteries]]"
-pathway: "[[Fool Pathway]]"
-sources:
-  - "[[Cuttlefish WeChat - Completed Fool Authority]]"
-  - "[[Fool Pathway - Ability Research]]"
-source-confidence: strong-inference
+source: "[[Lord of Mysteries Wiki - Symbols, Authorities and Abilities]]"
+source-confidence: medium-secondary
+pathway: "[[Fool Pathway (disambiguation)]]"
 ---
 
-# Foolishness / Blind Stupidity
+# Foolishness (Fool)
 
-Sequence 0 symbol within the Mind Domain. It corresponds to [[Fooling]]: targets can be made to overlook or forget known information.
+The supplied secondary source names Foolishness, also rendered there as “Blind Stupidity,” as a symbolism expressed through the [[Fool Pathway (disambiguation)]]. It is distinct from the Authority [[Fooling]].
+
+## Scope
+
+- Group: [[Lord of Mysteries Group]]
+- Counter classification: [[Lord of Mysteries Group Counters]]

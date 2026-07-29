@@ -2,13 +2,17 @@
 type: authority
 status: interpretation
 spoilers: major
-authority-level: core
-great-old-one: "[[God Almighty]]"
-pathways: ["[[Sun Pathway]]"]
-source: "[[God Almighty Group - Research Dossier]]"
+source: "[[Lord of Mysteries Wiki - God Almighty Symbols, Authorities and Abilities]]"
 source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Sun Pathway (disambiguation)|Sun Pathway]]"
+great-old-one: "[[God Almighty]]"
+symbolism-mapping: unresolved
+derivation-confidence: unresolved
 ---
 
 # Order (Sun)
 
-Sun Authority of justice-based coherence, expressed through contracts, oaths, notarization, and a justice code. Distinct from [[Order]] of Justiciar.
+The supplied Fandom source lists Order among the Authorities of the [[Sun Pathway (disambiguation)|Sun Pathway]].
+
+Related group: [[God Almighty Group]].

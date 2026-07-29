@@ -59,7 +59,7 @@ This registry defines sources the wiki may use. An unlisted source stays in `00-
 1. Original novel overrides every other source.
 2. Licensed edition overrides wiki or social media, but may differ in translation.
 3. An official adaptation can change or omit facts; record the difference, do not rewrite canon.
-4. If no high-reliability evidence exists: set `status: unconfirmed` and create an item in `05-Review/Pending Review.md`.
+4. If no high-reliability evidence exists, use the evidence-appropriate `interpretation` or `theory` status and record the uncertainty in [[Pending Review]].
 
 ## Spoiler control
 

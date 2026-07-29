@@ -5,9 +5,11 @@ spoilers: major
 great-old-one: "[[The Anarchy]]"
 sefirah: "[[Nation of Disorder]]"
 pathways:
-  - "[[Black Emperor Pathway]]"
-  - "[[Justiciar Pathway]]"
-source: "[[The Anarchy - Research Dossier]]"
+  - "[[Black Emperor Pathway (disambiguation)]]"
+  - "[[Justiciar Pathway (disambiguation)]]"
+sources:
+  - "[[The Anarchy - Research Dossier]]"
+  - "[[Lord of Mysteries Wiki - The Anarchy Symbols, Authorities and Abilities]]"
 source-confidence: medium-secondary
 ---
 
@@ -20,10 +22,12 @@ source-confidence: medium-secondary
 
 ## Member Pathways
 
-- [[Black Emperor Pathway]]
-- [[Justiciar Pathway]]
+- [[Black Emperor Pathway (disambiguation)]]
+- [[Justiciar Pathway (disambiguation)]]
 
 ## Knowledge Maps
 
-- [[The Anarchy Symbolism]]
-- [[The Anarchy Authority Map]]
+- [[Order (The Anarchy Symbolism)]] · [[Shadow of Order]]
+- Black Emperor Authorities: [[Autocrat (Black Emperor)]] · [[Disorder (Black Emperor)]] · [[Distortion (Black Emperor)]]
+- Justiciar Authorities: [[Order (Justiciar)]] · [[Judgement (Justiciar)]] · [[Balance (Justiciar)]] · [[Disorder (Justiciar)]] · [[Rules (Justiciar)]] · [[Laws (Justiciar)]] · [[Principles (Justiciar)]]
+- Counter classification: [[The Anarchy Group Counters]]

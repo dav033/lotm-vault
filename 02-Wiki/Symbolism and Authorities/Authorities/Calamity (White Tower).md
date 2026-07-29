@@ -2,13 +2,17 @@
 type: authority
 status: interpretation
 spoilers: major
-authority-level: partial
-great-old-one: "[[God Almighty]]"
-pathways: ["[[White Tower Pathway]]"]
-source: "[[God Almighty Group - Research Dossier]]"
+source: "[[Lord of Mysteries Wiki - God Almighty Symbols, Authorities and Abilities]]"
 source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[White Tower Pathway (disambiguation)|White Tower Pathway]]"
+great-old-one: "[[God Almighty]]"
+symbolism-mapping: unresolved
+derivation-confidence: unresolved
 ---
 
 # Calamity (White Tower)
 
-White Tower partial Authority where dangerous knowledge manifests madness and destruction. Distinct from [[Calamity (Tyrant)]].
+The supplied Fandom source lists Calamity among the Authorities of the [[White Tower Pathway (disambiguation)|White Tower Pathway]].
+
+Related group: [[God Almighty Group]].

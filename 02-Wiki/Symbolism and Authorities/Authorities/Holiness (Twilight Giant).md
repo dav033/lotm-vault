@@ -2,13 +2,17 @@
 type: authority
 status: interpretation
 spoilers: major
-authority-level: core
-great-old-one: "[[Eternal Darkness]]"
-pathway: "[[Twilight Giant Pathway]]"
-source: "[[Eternal Darkness - Research Dossier]]"
+sources:
+  - "[[Lord of Mysteries Wiki - Eternal Darkness Symbols, Authorities and Abilities]]"
+  - "[[Eternal Darkness - Research Dossier]]"
 source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Twilight Giant Pathway (disambiguation)]]"
+great-old-one: "[[Eternal Darkness]]"
+symbolism-mapping: unresolved
+derivation-confidence: unresolved
 ---
 
-# Holiness
+# Holiness (Twilight Giant)
 
-Twilight Giant Authority of holiness. Kept separate from [[Holiness]], the Sun Pathway expression, until a source establishes their exact overlap.
+Holiness is a [[Twilight Giant Pathway (disambiguation)]] Authority expressed through sacred or purifying effects. It is pathway-specific and must not be merged with similarly named Authorities of other groups.

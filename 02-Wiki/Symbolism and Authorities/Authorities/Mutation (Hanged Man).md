@@ -2,13 +2,22 @@
 type: authority
 status: interpretation
 spoilers: major
-authority-level: partial
-great-old-one: "[[God Almighty]]"
-pathways: ["[[Hanged Man Pathway]]"]
-source: "[[God Almighty Group - Research Dossier]]"
+source: "[[Lord of Mysteries Wiki - God Almighty Symbols, Authorities and Abilities]]"
 source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Hanged Man Pathway (disambiguation)|Hanged Man Pathway]]"
+great-old-one: "[[God Almighty]]"
+symbolisms:
+  - "[[Maker (God Almighty)]]"
+derivation-confidence: reported-secondary
 ---
 
 # Mutation (Hanged Man)
 
-Hanged Man partial Authority over change in all things, partially overlapping with Fool’s Change.
+The supplied Fandom source lists partial Authority over Mutation among the Authorities of the [[Hanged Man Pathway (disambiguation)|Hanged Man Pathway]].
+
+Related group: [[God Almighty Group]].
+
+## Symbolic Derivation
+
+The source relates the shaping of living beings under [[Maker (God Almighty)]] to Mutation.

@@ -2,7 +2,7 @@
 type: deprecated-node
 status: deprecated
 great-old-one: "[[Lord of Mysteries]]"
-pathway: "[[Fool Pathway]]"
+pathway: "[[Fool Pathway (disambiguation)]]"
 source: "[[Fool Pathway - Ability Research]]"
 source-confidence: medium-secondary
 ---

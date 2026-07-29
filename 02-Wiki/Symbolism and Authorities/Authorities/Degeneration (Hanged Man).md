@@ -2,13 +2,17 @@
 type: authority
 status: interpretation
 spoilers: major
-authority-level: core
-great-old-one: "[[God Almighty]]"
-pathways: ["[[Hanged Man Pathway]]"]
-source: "[[God Almighty Group - Research Dossier]]"
+source: "[[Lord of Mysteries Wiki - God Almighty Symbols, Authorities and Abilities]]"
 source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Hanged Man Pathway (disambiguation)|Hanged Man Pathway]]"
+great-old-one: "[[God Almighty]]"
+symbolism-mapping: unresolved
+derivation-confidence: unresolved
 ---
 
 # Degeneration (Hanged Man)
 
-Hanged Man’s central Authority of fall, degradation, and dismantling through corruptive and soul–flesh processes. Distinct from [[Degeneration]] of Abyss.
+The supplied Fandom source lists partial Authority over Degeneration among the Authorities of the [[Hanged Man Pathway (disambiguation)|Hanged Man Pathway]].
+
+Related group: [[God Almighty Group]].

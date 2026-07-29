@@ -5,8 +5,8 @@ spoilers: major
 great-old-one: "[[Goddess of Origin]]"
 sefirah: "[[Brood Hive]]"
 pathways:
-  - "[[Mother Pathway]]"
-  - "[[Moon Pathway]]"
+  - "[[Mother Pathway (disambiguation)|Mother Pathway]]"
+  - "[[Moon Pathway (disambiguation)|Moon Pathway]]"
 source: "[[Goddess of Origin - Research Dossier]]"
 source-confidence: medium-secondary
 ---
@@ -20,10 +20,11 @@ source-confidence: medium-secondary
 
 ## Member Pathways
 
-- [[Mother Pathway]]
-- [[Moon Pathway]]
+- [[Mother Pathway (disambiguation)|Mother Pathway]]
+- [[Moon Pathway (disambiguation)|Moon Pathway]]
 
 ## Knowledge Maps
 
-- [[Goddess of Origin Symbolism]]
-- [[Goddess of Origin Authority Map]]
+- Symbolisms: [[Brood Hive of Filth]] · [[Death (Goddess of Origin)]] · [[Moon (Goddess of Origin)]]
+- Mother: [[Mother (Authority)]] · [[Earth (Mother)]] · [[Nature (Mother)]] · [[Death (Mother)]] · [[Life (Mother)]]
+- Moon: [[Summoning (Moon)]] · [[Beauty (Moon)]] · [[Spirituality (Moon)]] · [[Life (Moon)]] · [[Darkness (Moon)]] · [[Bizarreness (Moon)]]

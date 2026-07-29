@@ -1,5 +1,125 @@
 # Change Log
 
+## [2026-07-29] | Graph validation and retained source debt
+
+- Normalized the remaining twelve Pathway Hubs to disambiguated filenames, resolved generated clipping-author links through [[Contributors to Lord of the Mysteries Wiki]], and verified zero broken, duplicate, ambiguous, self, or orphan links in the managed graph.
+- Reconciled audited counts at 451 Wiki notes, 202 Sequences, 48 processed sources, 115 Authorities, 85 mapped Authority derivations, and 30 deliberately unmapped Authorities.
+- Retained post-ingestion additions to the Door and Error ability source bodies by user decision; the exact immutability violations remain tracked in [[Pending Review]], so the integration remains partial.
+
+## [2026-07-28] | Pathway ability clipping ingestion through Justiciar
+
+- Ingested 15 supplied Pathway ability clippings as immutable unofficial/medium source notes and extracted their full Sequence 9-0 ability sections into 150 directly sourced knowledge notes.
+- Numbered the new Sequence filenames from 9 through 0, numbered all 22 Standard Pathway folders in canonical order, and updated affected wikilinks and mandatory disambiguated Pathway Hubs.
+- Completed 15 Pathway maps, leaving only Chained and Moon at Sequence 9; preserved the malformed Demoness Sequence 6 boundary and Tyrant's `Cataclysmic Interrer` spelling as explicit review debt.
+- Restored the five missing Sefirah navigation nodes required by the affected Group and Pathway Hubs and verified the managed vault graph with no unresolved links.
+
+## [2026-07-28] | Fool Pathway Sequence ability expansion
+
+- Expanded all ten Fool Pathway Sequence notes with the supplied Sequence 9-0 traits, abilities, strengthening, ranges, limits, counters, and Mythical Creature details.
+- Preserved the boundary between ordinary Powers, partial jurisdictions, Pathway Authorities, and Lord of Mysteries group Symbolisms.
+- Replaced broken legacy map links in [[Fool Pathway (disambiguation)]] and its Sequence notes with current Authority and Symbolism nodes; the processed source body remained unchanged.
+- Added [[Sefirah Castle]] to satisfy the Lord of Mysteries group graph contract and restored direct navigation among its three Pathway Hubs.
+
+## [2026-07-28] | Symbolism to Authority derivation audit
+
+- Audited all 112 Authority notes against the available dossiers, Fandom clippings, and original author-post URLs; 82 received supported `symbolisms` links and 30 were marked `symbolism-mapping: unresolved`.
+- Added 21 missing Symbolism nodes required to preserve Pathway, group, translation, and Great Old One scope without merging same-name concepts.
+- Added [[Symbolism to Authority Derivations]] and specified `derivation-confidence` inside every Authority note as `reported-secondary`, `strong-inference`, or `unresolved`.
+
+## [2026-07-28] | Shared and partial Authority classification
+
+- Added [[Shared and Partial Authorities]] as the central cross-group classification for explicit, asymmetric, partial, and probable shared Authorities.
+- Distinguished genuine shared jurisdiction from similar effects, translated homonyms, and Great Old One-level group synthesis.
+- Linked the classification from [[Standard Pathways]] and retained all claims as `interpretation` with `medium-secondary` confidence.
+
+## [2026-07-28] | The Anarchy Symbolisms, Authorities, and counters
+
+- Recorded the relevant user-supplied Fandom excerpts in [[Lord of Mysteries Wiki - The Anarchy Symbols, Authorities and Abilities]] without promoting the secondary source to canon.
+- Added Order and Shadow of Order Symbolisms plus ten Black Emperor and Justiciar Authority notes, including subordinate Rules, Laws, Principles, and Distortion.
+- Added [[The Anarchy Group Counters]], disambiguated both Pathway Hubs, and preserved the distinction between The Anarchy and Wheel of Fortune translations of Disorder.
+
+## [2026-07-28] | Father of Devils Symbolisms and Authorities
+
+- Ingested the supplied Fandom clipping; added all six Abyss and four Chained Authorities, three named Symbolisms, and the reported Dimensionality–Desires counter relation.
+
+## [2026-07-28] | Goddess of Origin Symbolisms and Authorities
+
+- Ingested the user-supplied Fandom clipping and created the complete explicitly listed Authority inventory: five Mother and six Moon Authorities.
+- Added the named Brood Hive of Filth, Death, and Moon Symbolisms. The source contains no countering section.
+
+## [2026-07-28] | Demon of Knowledge Symbolisms, Authorities, and counters
+
+- Recorded the relevant user-supplied Fandom excerpts in [[Lord of Mysteries Wiki - Demon of Knowledge Symbols, Authorities and Abilities]] without promoting the secondary source to canon.
+- Added five Symbolism notes and nine Authority notes for Hermit, Paragon, shared Pathway scope, and the Great Old One-level Manufacturing claim.
+- Added [[Demon of Knowledge Group Counters]], disambiguated the Hermit and Paragon Pathway Hubs, and preserved the Laws/Principles translation distinction.
+
+## [2026-07-28] | Key of Light Symbolisms and Authorities
+
+- Ingested the user-supplied Fandom clipping and created the complete explicitly listed Wheel of Fortune Authority set: Fate, Probability, Cycle, and Disorder.
+- Added the five named Key of Light Symbolisms: Fate of the Original Creator, Endless Disorder, Incarnation of Fate, Return, and Light Cone; the source provides no countering section.
+
+## [2026-07-28] | Lord of Mysteries Authority completion
+
+- Added the remaining Pathway-level Authority labels from the user-supplied Lord of Mysteries Fandom clipping: Miracles, Anchor of Destiny, History, Time, Destiny, Deceit, Space, Alternate Worlds, and Position. Existing Grafting and Reassembly, Fooling, Error, Replication, Theft, and Door notes retain their prior classifications.
+
+## [2026-07-28] | Eternal Darkness Symbolisms, Authorities, and counters
+
+- Recorded the relevant user-supplied Fandom excerpts in [[Lord of Mysteries Wiki - Eternal Darkness Symbols, Authorities and Abilities]] without promoting the secondary source to canon.
+- Added 12 Symbolism notes and 14 Pathway-level Authority notes under the shared Symbolism and Authorities folders, preserving group, Pathway, and Great Old One scope.
+- Added [[Eternal Darkness Group Counters]], disambiguated the three Eternal Darkness Pathway Hubs, and retained unresolved vault-wide graph debt in [[Pending Review]].
+
+## [2026-07-28] | Calamity of Destruction Authority completion
+
+- Added the full Pathway-level Authority inventory explicitly listed in the user-supplied Calamity of Destruction Fandom clipping: six Demoness and six Red Priest Authorities.
+
+## [2026-07-28] | God Almighty Authority completion
+
+- Added the full Pathway-level Authority inventory explicitly listed in the user-supplied God Almighty Fandom clipping: five Visionary, four Sun, six Tyrant, six White Tower, and five partial Hanged Man Authorities.
+
+## [2026-07-28] | Calamity of Destruction Symbolisms, Authorities, and counters
+
+- Ingested the user-supplied Fandom clipping as [[Lord of Mysteries Wiki - Calamity of Destruction Symbols, Authorities and Abilities]] without altering its supplied body.
+- Added individually linked Symbolism and Authority notes for Calamity of Destruction, retaining the source’s translation distinctions and `interpretation` / `medium-secondary` classification.
+- Added [[Calamity of Destruction Group Counters]] under the standard group; reported interactions remain limited and pending official/high verification.
+
+## [2026-07-28] | God Almighty Symbolisms, Authorities, and counters
+
+- Ingested the user-supplied Fandom clipping as [[Lord of Mysteries Wiki - God Almighty Symbols, Authorities and Abilities]] without altering its supplied body.
+- Added individually linked God Almighty Symbolism and Authority notes, all classified as `interpretation` with `medium-secondary` confidence.
+- Added [[God Almighty Group Counters]] under the standard God Almighty group and preserved mutual, partial, and conditional scopes pending official/high verification.
+
+## [2026-07-28] | Lord of Mysteries Symbolisms, Authorities, and counters
+
+- Ingested the user-supplied Fandom clipping as [[Lord of Mysteries Wiki - Symbols, Authorities and Abilities]] without altering its supplied body.
+- Created 13 individually linked Symbolism and Authority notes for the Lord of Mysteries group, all classified as `interpretation` with `medium-secondary` confidence.
+- Added [[Lord of Mysteries Group Counters]] under the standard Lord of Mysteries group, separating reported counter-relations from universal claims; official/high verification remains pending.
+
+## [2026-07-28] | Symbolism research enrichment
+
+- Reviewed online secondary references alongside the vault's existing source dossiers; retained `interpretation` and existing confidence levels because no new official/high primary source was ingested.
+- Expanded all 27 notes in `02-Wiki/Symbolism and Authorities/Symbolisms/` with their conceptual meaning, Pathway or group expression, and boundary from adjacent Authorities and Symbolisms.
+- Added explicit distinctions between Symbolism, Authority, derived Power, shared expression, and conditional access; no source body was altered.
+
+## [2026-07-28] | God Almighty Symbolism split
+
+- Split the God Almighty map into independently linked notes for Omnipotence, Omniscience, Energy, Inextinguishable Light, Maker, Fatherhood, and Genesis.
+- Retained `interpretation` with `medium-secondary` confidence because the available dossier cites official material but remains a secondary source note in this vault.
+
+## [2026-07-28] | Symbolism map decomposition
+
+- Decomposed the explicit Symbolisms named in the Key of Light, Goddess of Origin, The Anarchy, Father of Devils, Door, and Error maps into separately sourced notes.
+- Kept Authority, Power, and expression labels in the maps where the sources do not identify an independent Symbolism.
+
+## [2026-07-28] | Symbolism maps removed
+
+- Removed the 12 `* Symbolism.md` map notes after replacing their 43 incoming links with direct links to the corresponding individual Symbolism notes.
+- Added focused group-level notes for Calamity of Destruction, Eternal Darkness, and Source of Curses where a direct target was needed to preserve the sourced concept.
+
+## [2026-07-28] | Lord of Mysteries Pathway disambiguation
+
+- Renamed the Fool, Door, and Error Pathway Hubs with the `(disambiguation)` suffix and updated their wiki links.
+- Added the mandatory Pathway Hub disambiguation naming rule.
+
 ## [2026-07-28] | Initialization
 
 - Created initial LOTM Wiki structure.
@@ -141,3 +261,21 @@
 - Added Error Symbolism, Authority, and Sefirah-access maps; rebuilt Door maps with the same ontology; corrected Fool maps against the completed official Authority post.
 - Kept Puppetry, Spirit World travel, Decryption, Parasitism, and omnipresent Blink states outside independent Authority classification.
 - Updated affected hubs and indexes. Vault-wide hard gate remains open because 8 unrelated Authority maps retain invalid statuses, 19 other Pathways remain incomplete, and older semantic-link debt remains in [[Pending Review]].
+
+# 2026-07-28 - Error and Door Pathway Potion/Advancement ingestion
+
+- Completed the two stub Fandom Abilities source notes (Error, Door) with Classification, Extracted facts, and Short quotations sections that the source template requires; the previously supplied summary paragraphs were preserved unchanged.
+- Added three new source notes: Lord of Mysteries Wiki - Error Pathway Advancement, Lord of Mysteries Wiki - Door Pathway (overview), and Lord of Mysteries Wiki - Door Pathway Advancement, covering potion properties, Beyonder Characteristic appearance, formula ingredients, and advancement rituals.
+- Added a Potion section to all 10 Error Sequence notes (Marauder-Error) and all 10 Door Sequence notes (Apprentice-Door), plus quantified ability details (ranges, durations, theft counts) not previously captured from the Abilities inventory.
+- Expanded the Door Pathway Hub with its symbol, Tarot correspondence, Mythical Creature Form, and an explicit Neighbouring/Compatible Pathways breakdown from the overview source.
+- The Error Pathway Advancement, Door Pathway, and Door Pathway Advancement source URLs were not independently fetched (WebFetch returned HTTP 402 in-session); they are pattern-inferred from sibling URLs directly evidenced in the supplied dump and are flagged in [[Pending Review]] pending direct verification.
+- Updated 04-Indexes/Sources.md and 04-Indexes/Index.md counts (26 to 29 processed source notes). Vault-wide hard gate remains open: this session did not re-run the full 286-note audit, and the pre-existing 38 unresolved links and 19 incomplete Pathways from concurrent restructuring are untouched.
+
+# 2026-07-28 - Visionary and Sun Pathway ingestion (God Almighty Group)
+
+- Added 4 new source notes: Lord of Mysteries Wiki - Visionary Pathway Abilities, Lord of Mysteries Wiki - Visionary Pathway Advancement, Lord of Mysteries Wiki - Sun Pathway Abilities, Lord of Mysteries Wiki - Sun Pathway Advancement.
+- Brought the Visionary Pathway (Spectator-Visionary) and Sun Pathway (Bard-Sun) from Sequence-9-only stubs to complete 10-Sequence maps: created 18 new Sequence notes and expanded Spectator.md and Bard.md into the full Explicit Powers / Authority mapping / Potion pattern.
+- Authority mappings for both Pathways reuse the pre-existing Discernment/Envisioning/Dreams/Mind/Loss of Control (Visionary) and Holiness/Light/Order/Sun-Authority/Contracts (God Almighty) Authority stubs rather than inventing new Authority nodes; Powers without a matching Authority note (e.g. Purification, Notarization mechanics) are left unmapped per the vault's conservative Power-vs-Authority policy.
+- Flipped both Pathway Hubs from sequence-map-status: pending to complete and rebuilt their Sequences/Knowledge Map sections.
+- The /Advancement URLs for both Pathways are pattern-inferred (not independently fetched, WebFetch returned HTTP 402) from the confirmed sibling Door_Pathway/Advancement convention; the /Abilities URLs are directly evidenced by in-page Potion Formula ingredient links. Flagged in Pending Review.
+- Updated 04-Indexes/Sources.md (29 to 33 processed sources) and 04-Indexes/Index.md (Wiki notes 286 to 304, Sequence notes 49 to 67, pending-Pathway count 19 to 17). The 286-note Pending Review total was not recalculated and is marked stale.

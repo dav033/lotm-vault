@@ -2,13 +2,24 @@
 type: authority
 status: interpretation
 spoilers: major
-authority-level: partial
-great-old-one: "[[God Almighty]]"
-pathways: ["[[White Tower Pathway]]"]
-source: "[[God Almighty Group - Research Dossier]]"
+source: "[[Lord of Mysteries Wiki - God Almighty Symbols, Authorities and Abilities]]"
 source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[White Tower Pathway (disambiguation)|White Tower Pathway]]"
+great-old-one: "[[God Almighty]]"
+symbolisms:
+  - "[[Maker (God Almighty)]]"
+  - "[[Omnipotence (God Almighty)]]"
+  - "[[Omniscience (God Almighty)]]"
+derivation-confidence: reported-secondary
 ---
 
 # Creation (White Tower)
 
-White Tower partial Creation Authority derived from Maker and Omnipotence Symbolisms. It cannot bypass Authorities it does not possess.
+The supplied Fandom source lists Creation among the Authorities of the [[White Tower Pathway (disambiguation)|White Tower Pathway]].
+
+Related group: [[God Almighty Group]].
+
+## Symbolic Derivation
+
+The available author material derives partial Creation from [[Maker (God Almighty)]] and the compound omnipotent/omniscient structure.

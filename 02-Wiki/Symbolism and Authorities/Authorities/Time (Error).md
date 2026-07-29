@@ -1,21 +1,24 @@
 ---
 type: authority
-status: canon
-authority-level: pathway-jurisdiction
-pathway: "[[Error Pathway]]"
-great-old-one: "[[Lord of Mysteries]]"
+status: interpretation
 spoilers: major
-source: "[[Cuttlefish WeChat - Marauder Pathway Abilities]]"
-source-confidence: explicit-canon
+source: "[[Lord of Mysteries Wiki - Symbols, Authorities and Abilities]]"
+source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Error Pathway (disambiguation)]]"
+great-old-one: "[[Lord of Mysteries]]"
+symbolisms:
+  - "[[King of Space-Time]]"
+  - "[[Change (Lord of Mysteries)]]"
+derivation-confidence: reported-secondary
 ---
 
 # Time (Error)
 
-Pathway-specific jurisdiction over Time, primarily expressed through [[Theft (Error)]]. It includes stealing Time, lifespan, or temporal opportunities and exploiting temporal Loopholes.
+The supplied Fandom source includes Time among the Fool, Error, or Door Pathway’s reported Authority and surface-symbolism labels. This vault records it as a Pathway-level Authority pending official/high verification.
 
-This is distinct from [[Time (Fool)]], which is exercised through Fooling and History-related operations.
+Related group: [[Lord of Mysteries Group]].
 
-## Source
+## Symbolic Derivation
 
-- [[Cuttlefish WeChat - Marauder Pathway Abilities]]
-
+The Error Pathway's Time Authority is reported as a weakened expression of [[King of Space-Time]], within the broader [[Change (Lord of Mysteries)]] structure.

@@ -5,9 +5,9 @@ spoilers: major
 great-old-one: "[[Lord of Mysteries]]"
 sefirah: "[[Sefirah Castle]]"
 pathways:
-  - "[[Fool Pathway]]"
-  - "[[Door Pathway]]"
-  - "[[Error Pathway]]"
+  - "[[Fool Pathway (disambiguation)]]"
+  - "[[Door Pathway (disambiguation)]]"
+  - "[[Error Pathway (disambiguation)]]"
 sources:
   - "[[Cuttlefish WeChat - Completed Fool Authority]]"
   - "[[Cuttlefish WeChat - Apprentice Pathway Abilities]]"
@@ -24,19 +24,26 @@ source-confidence: strong-inference
 
 ## Member Pathways
 
-- [[Fool Pathway]] — Sequence 9 [[Seer]] through Sequence 0 [[Fool]].
-- [[Door Pathway]] — Sequence 9 [[Apprentice]] through Sequence 0 [[Door]].
-- [[Error Pathway]] — Sequence 9 [[Marauder]] through Sequence 0 [[Error]].
+- [[Fool Pathway (disambiguation)]] — Sequence 9 [[Seer]] through Sequence 0 [[Fool]].
+- [[Door Pathway (disambiguation)]] — Sequence 9 [[Apprentice]] through Sequence 0 [[Door]].
+- [[Error Pathway (disambiguation)]] — Sequence 9 [[Marauder]] through Sequence 0 [[Error]].
 
 All three Sequence maps are populated from 9 to 0. Each Sequence note separates explicit abilities from Authority mapping.
 
 ## Knowledge Maps
 
-- [[Lord of Mysteries Symbolism]]
-- [[Lord of Mysteries Authority Map]]
-- [[Fool Pathway Authority Map]]
-- [[Door Pathway Authority Map]]
-- [[Error Pathway Authority Map]]
+- [[King of Space-Time]] · [[Beacon of Destiny]] · [[Dominator of the Spirit World]] · [[Inconceivable and Bizarreness (Lord of Mysteries)]]
+- [[Change (Lord of Mysteries)]] · [[Foolishness (Fool)]] · [[Theft (Error)]] · [[Door (Symbolism)]]
+- [[Spirit World Dominion]] · [[Replication]] · [[Grafting and Reassembly]] · [[Fooling]] · [[Error (Authority)]]
+- Fool Authorities: [[Miracles (Fool)]] · [[Anchor of Destiny (Fool)]] · [[History (Fool)]] · [[Change (Fool)]]
+- Fool restricted or derived concepts: [[Concealment (Fool)]] · [[Fate (Fool)]]
+- Error: [[Time (Error)]] · [[Destiny (Error)]] · [[Deceit (Error)]]
+- Door Authorities: [[Door (Door Pathway)]] · [[Sealing (Door)]] · [[Space (Door)]] · [[Alternate Worlds (Door)]] · [[Position (Door)]]
+- Door Powers and mechanisms: [[Concealment (Door)]] · [[Spirit World Access (Door)]]
+- Derivation registry: [[Symbolism to Authority Derivations#Lord of Mysteries]]
+- [[Lord of Mysteries Group Counters]]
 
-Cross-Pathway use through [[Sefirah Castle]] is conditional access, not automatic Pathway inheritance.
+## Conditional Sefirah Access
+
+Cross-Pathway use through [[Sefirah Castle]] is conditional access, not automatic Pathway inheritance. A Fool, Door, or Error Pathway holder must not be assigned another member Pathway's native Authorities solely because the Sefirah can mediate broader group-level effects.
 

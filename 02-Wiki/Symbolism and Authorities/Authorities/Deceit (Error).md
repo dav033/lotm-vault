@@ -1,21 +1,23 @@
 ---
 type: authority
-status: canon
-authority-level: pathway-core
-pathway: "[[Error Pathway]]"
-great-old-one: "[[Lord of Mysteries]]"
+status: interpretation
 spoilers: major
-source: "[[Cuttlefish WeChat - Marauder Pathway Abilities]]"
-source-confidence: explicit-canon
+source: "[[Lord of Mysteries Wiki - Symbols, Authorities and Abilities]]"
+source-confidence: medium-secondary
+authority-level: pathway
+pathway: "[[Error Pathway (disambiguation)]]"
+great-old-one: "[[Lord of Mysteries]]"
+symbolisms:
+  - "[[Deceit (Lord of Mysteries Symbolism)]]"
+derivation-confidence: reported-secondary
 ---
 
 # Deceit (Error)
 
-Authority that deceives minds, supernatural perception, rules, mysticism laws, and even the user's own state at sufficient level.
+The supplied Fandom source includes Deceit among the Fool, Error, or Door Pathway’s reported Authority and surface-symbolism labels. This vault records it as a Pathway-level Authority pending official/high verification.
 
-Eloquence, Thought Misdirection, and Mental Disruption are lower Powers related to this conceptual line; they are not independent Authorities.
+Related group: [[Lord of Mysteries Group]].
 
-## Source
+## Symbolic Derivation
 
-- [[Cuttlefish WeChat - Marauder Pathway Abilities]]
-
+This Authority is the operational expression of [[Deceit (Lord of Mysteries Symbolism)]].

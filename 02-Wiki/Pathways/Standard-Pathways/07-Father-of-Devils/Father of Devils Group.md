@@ -5,8 +5,8 @@ spoilers: major
 great-old-one: "[[Father of Devils]]"
 sefirah: "[[Tenebrous World]]"
 pathways:
-  - "[[Chained Pathway]]"
-  - "[[Abyss Pathway]]"
+  - "[[Chained Pathway (disambiguation)|Chained Pathway]]"
+  - "[[Abyss Pathway (disambiguation)|Abyss Pathway]]"
 source: "[[Father of Devils - Research Dossier]]"
 source-confidence: medium-secondary
 ---
@@ -20,10 +20,12 @@ source-confidence: medium-secondary
 
 ## Member Pathways
 
-- [[Chained Pathway]]
-- [[Abyss Pathway]]
+- [[Chained Pathway (disambiguation)|Chained Pathway]]
+- [[Abyss Pathway (disambiguation)|Abyss Pathway]]
 
 ## Knowledge Maps
 
-- [[Father of Devils Symbolism]]
-- [[Father of Devils Authority Map]]
+- Symbolisms: [[Source of Curses]] · [[Binding (Father of Devils)]] · [[Abyss of the Heart and Mind]]
+- Abyss: [[Degeneration (Abyss)]] · [[Filth (Abyss)]] · [[Corruption (Abyss)]] · [[Desire (Abyss)]] · [[Curses (Abyss)]] · [[Deviants (Abyss)]]
+- Chained: [[Curses (Chained)]] · [[Deviants (Chained)]] · [[Binding (Chained)]] · [[Objects (Chained)]]
+- [[Father of Devils Group Counters]]

@@ -122,6 +122,7 @@ Missing metadata blocks ingestion. Never guess a value to satisfy the schema.
 - Broken, unresolved, ambiguous, and accidental self-links are forbidden.
 - Every `02-Wiki/` note MUST have at least one incoming link from a hub, map, index, or related note.
 - A Pathway MUST always link to its `* Pathway` Hub.
+- Every Pathway Hub in `02-Wiki/` MUST use the filename and note title `<Pathway Name> Pathway (disambiguation)`; all links to a Pathway Hub MUST use that disambiguated name.
 - A Sequence 9 note such as `[[Seer]]`, `[[Reader]]`, or `[[Assassin]]` MUST NOT stand in for a Pathway.
 - Fields named `pathway` or `pathways` MUST link only to Pathway Hubs.
 - Sequence links are allowed only when referring to that actual Sequence, such as a Sequence list, power source, or progression map.
