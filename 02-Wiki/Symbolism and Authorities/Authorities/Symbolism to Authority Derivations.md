@@ -29,7 +29,7 @@ This map records supported `Symbolism -> Authority` relations across the current
 | [[Destiny (Error Symbolism)]] | [[Destiny (Error)]] |
 | [[Error and Loopholes (Error Symbolism)]] | [[Error (Authority)]] |
 | [[Fooling (Fool Symbolism)]] | [[Fooling]] |
-| [[Change (Lord of Mysteries)]] | [[Change (Fool)]] |
+| [[Change (Lord of Mysteries)]] | [[Transformation (Fool)]] |
 | [[Change (Lord of Mysteries)]] and [[Inconceivable and Bizarreness (Lord of Mysteries)]] | [[Grafting and Reassembly]] |
 | [[King of Space-Time]] and [[Inconceivable and Bizarreness (Lord of Mysteries)]] | [[History (Fool)]] |
 | [[Inconceivable and Bizarreness (Lord of Mysteries)]] | [[Miracles (Fool)]], [[Replication]] |

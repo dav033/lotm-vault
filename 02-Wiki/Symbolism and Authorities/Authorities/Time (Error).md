@@ -1,24 +1,48 @@
 ---
 type: authority
-status: interpretation
+status: canon
 spoilers: major
-source: "[[Lord of Mysteries Wiki - Symbols, Authorities and Abilities]]"
-source-confidence: medium-secondary
+sources:
+  - "[[Cuttlefish WeChat - Marauder Pathway Abilities]]"
+  - "[[Web Research - Fool and Error Authorities - 2026-07-29]]"
+  - "[[Lord of Mysteries Wiki - Error Pathway Abilities]]"
+  - "[[Reddit - Fool and Error Authority Discussions]]"
+source-confidence: explicit-canon
 authority-level: pathway
 pathway: "[[Error Pathway (disambiguation)]]"
 great-old-one: "[[Lord of Mysteries]]"
 symbolisms:
   - "[[King of Space-Time]]"
-  - "[[Change (Lord of Mysteries)]]"
-derivation-confidence: reported-secondary
+derivation-confidence: explicit-canon
 ---
 
 # Time (Error)
 
-The supplied Fandom source includes Time among the Fool, Error, or Door Pathway’s reported Authority and surface-symbolism labels. This vault records it as a Pathway-level Authority pending official/high verification.
+## Meaning
 
-Related group: [[Lord of Mysteries Group]].
+Time is a weakened Authority at Sequence 1 Worm of Time and a full Error Pathway Authority at Sequence 0. It alters temporal flow by slowing, stopping, accelerating, or briefly reversing it, and cooperates with Theft to remove duration, lifespan, timing, anchors, or time-limited effects.
 
-## Symbolic Derivation
+## Expression in the Novels
 
-The Error Pathway's Time Authority is reported as a weakened expression of [[King of Space-Time]], within the broader [[Change (Lord of Mysteries)]] structure.
+- Amon slows or nearly stops selected targets while exempting others from the affected area.
+- He accelerates local Time so ten to twenty seconds pass per external second, consuming the remaining duration of Klein's Historical Projections.
+- Pallez briefly reverses Time on Klein to return lifespan stolen by an Amon Avatar.
+- A Worm of Time can display recent local events as images in a Fog of History curtain.
+
+## Limits
+
+- Reversal is brief. The sources do not establish unrestricted travel to or rewriting of the past.
+- Aging steals survival duration, not biological development; stealing a baby's lifespan produces aging signs, not adulthood.
+- Time Theft and Time Authority cooperate but remain conceptually distinct.
+- Fooling Time disrupts ordering and temporal restrictions; Wheel of Fortune Reboot replaces a state through Fate. Neither is the same mechanism.
+
+## Community Cross-check
+
+Readers sometimes call this Authority underwhelming because shown operations are linear and bounded. That boundary matches the author post: Error's central identity is Bugs and Theft, while Time remains one constituent Authority.
+
+## Sources
+
+- [[Cuttlefish WeChat - Marauder Pathway Abilities]]
+- [[Web Research - Fool and Error Authorities - 2026-07-29]]
+- [[Lord of Mysteries Wiki - Error Pathway Abilities]]
+- [[Reddit - Fool and Error Authority Discussions]]

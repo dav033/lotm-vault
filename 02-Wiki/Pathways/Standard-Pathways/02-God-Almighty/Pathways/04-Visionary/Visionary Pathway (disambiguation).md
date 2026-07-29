@@ -3,7 +3,7 @@ type: pathway
 status: interpretation
 spoilers: major
 sequence-0-name: Visionary
-sequence-9: "[[Spectator]]"
+sequence-9: "[[9 - Spectator|Spectator]]"
 group: "[[God Almighty Group]]"
 great-old-one: "[[God Almighty]]"
 sefirah: "[[Chaos Sea]]"
@@ -26,7 +26,7 @@ source-confidence: medium-secondary
 
 ## Sequences
 
-[[Spectator]] · [[Telepathist]] · [[Psychiatrist]] · [[Hypnotist]] · [[Dreamwalker]] · [[Manipulator]] · [[Dream Weaver]] · [[Discerner]] · [[Author]] · [[Visionary]]
+[[9 - Spectator|Spectator]] · [[8 - Telepathist|Telepathist]] · [[7 - Psychiatrist|Psychiatrist]] · [[6 - Hypnotist|Hypnotist]] · [[5 - Dreamwalker|Dreamwalker]] · [[4 - Manipulator|Manipulator]] · [[3 - Dream Weaver|Dream Weaver]] · [[2 - Discerner|Discerner]] · [[1 - Author|Author]] · [[0 - Visionary|Visionary]]
 
 Every Sequence note separates **Explicit Powers** from **Authority → Power Mapping**.
 

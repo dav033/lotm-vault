@@ -1,10 +1,58 @@
 # Change Log
 
+## [2026-07-29] | Sequence note format normalization
+
+- Added a Sequence template and mandatory format rules, then normalized all 220 Sequence notes across all nine groups: H1 titles, H2 names/order, H3 categories, Pathway links, indentation, raw HTML, and Sources placement.
+- Added the missing Hanged Man Sequence 9 navigation, removed seven own-Pathway entries from Neighbouring Pathways, and filled all 33 missing Authority mapping sections conservatively from existing sources.
+- Retained 160 missing Potion sections as evidence debt across 16 Pathways; no formula, ingredient, ritual, or acting method was inferred without an Advancement source.
+
+## [2026-07-29] | Degeneration homonym correction and batch self-audit
+
+- Expanded [[Degeneration (Hanged Man)]] after the qualified-note audit showed that only the Abyss homonym had been researched in the first batch.
+- Added web and Reddit research records, preserved the internal-nature versus external-environment distinction, and retained `interpretation` / `medium-secondary` status.
+- Added a mandatory Authority batch audit to `AGENTS.md`: expected qualified basenames, homonym expansion, diff verification, required sections, evidence checks, and separate result counts.
+
+## [2026-07-29] | Authority research batch 2 - The Anarchy
+
+- Expanded three Black Emperor and seven Justiciar Authority notes with operational meaning, Sequence progression, indexed novel manifestations, limits, and translation distinctions.
+- Separated Autocrat from Disorder, Black Emperor Disorder from Justiciar Disorder, and Rules from Laws and Principles.
+- Added medium-reliability web research and low-reliability Reddit cross-check records; all ten notes remain `interpretation` / `medium-secondary` pending direct official/high verification.
+
+## [2026-07-29] | Authority research batch 1 - Father of Devils
+
+- Expanded the six Abyss and four Chained Authority notes with operational meaning, indexed novel manifestations, Sequence 0 scope, limits, and symbolic derivation.
+- Added a current web research record plus a separate low-reliability Reddit record; community claims are used only for cross-checking and rejected-overreach notes.
+- Preserved all ten notes at `interpretation` / `medium-secondary` because relevant chapter text and the original Chained author-post URL were not independently inspected.
+
+## [2026-07-29] | Sequence filename normalization
+
+- Renamed all 52 legacy bare Sequence filenames to the dominant `N - Name.md` convention and updated 66 internal links across nine notes.
+- Removed the remaining strict-certainty wording from `Filth (Hanged Man)` without changing its evidence claim.
+- Verified all 220 Sequence filenames and numbers, all 22 complete Pathway maps, and zero unresolved or self-links in managed content.
+
+## [2026-07-29] | Moon Pathway clipping ingestion
+
+- Ingested immutable overview, ability, and advancement captures for Moon as unofficial/medium sources with exact source URLs and page locations.
+- Completed the Moon Sequence map through Sequence 0, linked ability and advancement evidence to every Sequence note, and refreshed all affected counts and indexes.
+- Retained the blank first main ingredient in the supplied Sequence 0 Advancement capture as explicit review debt; no value was inferred.
+
+## [2026-07-29] | Chained Pathway clipping ingestion
+
+- Ingested immutable overview, ability, and advancement captures for Chained as unofficial/medium sources with exact source URLs and page locations.
+- Completed the Chained Sequence map through Sequence 0, linked ability and advancement evidence to every Sequence note, and refreshed source, pathway, sequence, and review counts.
+- Retained the blank first main ingredient in the supplied Sequence 0 Advancement capture as explicit review debt; no value was inferred.
+
+## [2026-07-29] | Rule-compliance repair
+
+- Restored the pre-ingestion bodies of the Door and Error ability source notes, eliminating the 60 appended-line immutability violations.
+- Repaired the Seafarer link to [[3 - Sea King]], reconciled active Wiki and review counts to 453, and removed unsupported certainty wording from eight interpretation notes.
+- Reframed seven Sequence 0 Authority mappings as secondary interpretations and preserved the separate Great Old One identities defined by their Pathway Hubs.
+
 ## [2026-07-29] | Graph validation and retained source debt
 
 - Normalized the remaining twelve Pathway Hubs to disambiguated filenames, resolved generated clipping-author links through [[Contributors to Lord of the Mysteries Wiki]], and verified zero broken, duplicate, ambiguous, self, or orphan links in the managed graph.
-- Reconciled audited counts at 451 Wiki notes, 202 Sequences, 48 processed sources, 115 Authorities, 85 mapped Authority derivations, and 30 deliberately unmapped Authorities.
-- Retained post-ingestion additions to the Door and Error ability source bodies by user decision; the exact immutability violations remain tracked in [[Pending Review]], so the integration remains partial.
+- The initial audit reported 451 Wiki notes, 202 Sequences, 48 processed sources, 115 Authorities, 85 mapped Authority derivations, and 30 deliberately unmapped Authorities.
+- The then-deferred Door and Error source-body additions were later restored in the rule-compliance repair above.
 
 ## [2026-07-28] | Pathway ability clipping ingestion through Justiciar
 
@@ -279,3 +327,21 @@
 - Flipped both Pathway Hubs from sequence-map-status: pending to complete and rebuilt their Sequences/Knowledge Map sections.
 - The /Advancement URLs for both Pathways are pattern-inferred (not independently fetched, WebFetch returned HTTP 402) from the confirmed sibling Door_Pathway/Advancement convention; the /Abilities URLs are directly evidenced by in-page Potion Formula ingredient links. Flagged in Pending Review.
 - Updated 04-Indexes/Sources.md (29 to 33 processed sources) and 04-Indexes/Index.md (Wiki notes 286 to 304, Sequence notes 49 to 67, pending-Pathway count 19 to 17). The 286-note Pending Review total was not recalculated and is marked stale.
+# 2026-07-29 - Remaining Advancement web ingestion
+
+- Located 16 missing Fandom Advancement pages through indexed web results after direct Fandom access returned HTTP 402 or timed out; recorded each as `unofficial/medium` without canon promotion.
+- Added immutable extracted source notes for Fool, Tyrant, White Tower, Hanged Man, Darkness, Death, Twilight Giant, Demoness, Red Priest, Hermit, Paragon, Wheel of Fortune, Abyss, Mother, Black Emperor, and Justiciar.
+- Added sourced Potion properties, characteristic appearances, formulas, and published Sequence 5-0 rituals to 160 Sequence notes. All 220 Sequence notes now contain Potion data; absent lower-Sequence rituals remain absent rather than inferred.
+- Updated source counts, indexes, and Pending Review. Official/high verification of the embedded Fandom citations remains evidence debt.
+
+# 2026-07-29 - Advancement original-source candidate search
+
+- Located 16 exact Cuttlefish WeChat URL candidates covering 15 of the 16 remaining Advancement Pathways and recorded their indexed titles, dates, archive pages, and scope in [[Web Research - Advancement Original Source Candidates - 2026-07-29]].
+- Found no dedicated Fool potion-formula post; its official evidence remains distributed across novel chapters. Preserved the conflicting archived dates for the two Wheel of Fortune posts.
+- Kept the research `unofficial/medium` because browser security policy blocked direct `mp.weixin.qq.com` inspection; no source or knowledge note was promoted to `official/high` or canon.
+
+# 2026-07-29 - Authority research batch 2: Fool and Error
+
+- Researched and materially enriched exactly ten targets with Meaning, Expression in the Novels, Limits, Community Cross-check, and Sources: seven Fool-side concepts and three Error Authorities.
+- Promoted Fooling, Grafting/Reassembly, Miracles, Transformation, History, Anchor of Destiny, Error, Deceit, and Time to `canon` / `explicit-canon` using the existing exact-URL `official/high` Cuttlefish posts; retained Fate (Fool) as a restricted interpretation.
+- Corrected the ontology error `Change (Fool)`: deprecated the old basename for immutable-source link stability and replaced the Pathway Authority with [[Transformation (Fool)]]. Added separate web-research and Reddit cross-check notes without treating either as canonical evidence.

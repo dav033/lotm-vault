@@ -32,12 +32,18 @@ last-audited: 2026-07-29
 - [[Mother Pathway (disambiguation)]] — 10 of 10
 - [[Black Emperor Pathway (disambiguation)]] — 10 of 10
 - [[Justiciar Pathway (disambiguation)]] — 10 of 10
+- [[Chained Pathway (disambiguation)]] — 10 of 10
+- [[Moon Pathway (disambiguation)]] — 10 of 10
 
-The 15 newly ingested Pathways use numbered Sequence filenames from 9 through 0 and preserve the supplied ability sections in each Sequence note.
+The seventeen clipping-integrated Pathways preserve cited Sequence data in their Sequence notes.
+
+## Sequence Note Format Audit
+
+- 220 of 220 Sequence notes use `N - Name.md` filenames and `# Sequence N - Name` H1 titles.
+- 220 of 220 contain `Explicit Powers`, `Authority → Power Mapping`, and a final `Sources` section.
+- All 22 Sequence 9 notes contain `Neighbouring Pathways`; none links its own Pathway as a neighbour.
+- 220 of 220 notes contain sourced `Potion` data. The 160 sections added from web-indexed Advancement pages remain `medium-secondary` pending direct official/high verification; see [[Pending Review]].
 
 ## Incomplete Sequence Maps
 
-- [[Chained Pathway (disambiguation)]] — 1 of 10
-- [[Moon Pathway (disambiguation)]] — 1 of 10
-
-Twenty Pathways are complete and two remain at Sequence 9 only. See [[Pending Review]].
+None. All 22 Standard Pathway Sequence maps are complete. See [[Pending Review]].

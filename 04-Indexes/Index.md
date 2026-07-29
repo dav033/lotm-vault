@@ -23,16 +23,17 @@ Knowledge base for *Lord of the Mysteries*.
 
 ## Status
 
-- Processed source notes: 48
+- Processed source notes: 79
 - Official high-reliability source notes: 3
-- Unofficial medium-reliability source notes: 45
-- Wiki notes: 451
-- Sequence notes: 202
+- Unofficial medium-reliability source notes: 72
+- Unofficial low-reliability source notes: 4
+- Wiki notes: 471
+- Sequence notes: 220
 - Lord of Mysteries Group Sequences: 30 of 30
-- Complete Pathway maps: 20 of 22
-- Incomplete Pathway maps: [[Chained Pathway (disambiguation)]] and [[Moon Pathway (disambiguation)]], each 1 of 10
-- Canon knowledge notes with direct official/high evidence: 0
-- Pending review: 451 unique notes
+- Complete Pathway maps: 22 of 22
+- Incomplete Pathway maps: none
+- Canon knowledge notes with direct official/high evidence: 9
+- Pending review: 462 unique notes
 
 Counts reflect current Markdown notes, excluding [[Sources Registry]] from processed-source totals. See [[Pending Review]].
 

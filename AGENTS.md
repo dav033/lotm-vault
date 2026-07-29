@@ -183,6 +183,30 @@ Missing metadata blocks ingestion. Never guess a value to satisfy the schema.
 - Review totals MUST count unique notes, not findings, links, or overlapping conditions.
 - A resolved item MUST be removed or reclassified in the same change that resolves it.
 
+## Authority research batch audit
+
+Before reporting an Authority research batch as delivered:
+
+1. Record the complete expected list using qualified note basenames, not display labels.
+2. Search the Authority folder for every unqualified label and enumerate all homonyms, including Pathway variants outside the intended group.
+3. Compare the expected list against the actual working-tree diff. Every expected note MUST have a content change or a written no-change reason.
+4. Every researched note MUST contain Meaning, Expression in the Novels, Limits, Community Cross-check, and Sources sections unless a documented ontology reason requires another heading.
+5. Verify direct source links, epistemic status, confidence, Pending Review coverage, source counts, indexes, and log entry.
+6. Report expected, changed, deliberately excluded, and failed counts separately. A display-name match MUST NOT count as verification of a qualified note.
+
+## Sequence note format
+
+- Sequence filenames MUST use `N - Name.md`, and the H1 MUST use `# Sequence N - Name`. A documented translation alias MAY follow the primary name in parentheses.
+- Use `## Explicit Powers`, never `## Extracted Ability Data`.
+- `Explicit Powers` is a structural inventory label, not an epistemic claim; the certainty-language prohibition still applies to prose inside the section.
+- Use `## Potion` for potion appearance, ingredients, and advancement ritual; do not use `## Advancement Data`.
+- Optional sections follow this order when present: Description, Traits, Symbolism, Authorities, Explicit Powers, Strengthened Abilities, Mythical Creature Form, Authority → Power Mapping, Potion, Neighbouring Pathways, Notes, Sources.
+- `## Sources` MUST be the final H2 section. Sequence 9 notes SHOULD contain Neighbouring Pathways. Other Sequences MUST NOT contain that navigation section.
+- Bold labels inside an H2 section MAY identify individual Powers. Category labels such as New Abilities, Authorities, Strengthened Abilities, or Translation Note SHOULD use H3 headings.
+- Raw HTML and tab-indented list nesting are forbidden in Sequence knowledge notes. Use Markdown and four-space indentation.
+- Pathway frontmatter links SHOULD use the direct disambiguated Pathway Hub target without a display alias.
+- Missing Advancement or Authority mapping evidence MUST be recorded in [[Pending Review]] and MUST NOT be filled from naming similarity or memory.
+
 ## Hard completion gate
 
 A change or audit MUST NOT be described as `closed`, `complete`, `fixed`, or `clean` unless all checks below pass:

@@ -24,9 +24,9 @@ source-confidence: strong-inference
 
 ## Member Pathways
 
-- [[Fool Pathway (disambiguation)]] — Sequence 9 [[Seer]] through Sequence 0 [[Fool]].
-- [[Door Pathway (disambiguation)]] — Sequence 9 [[Apprentice]] through Sequence 0 [[Door]].
-- [[Error Pathway (disambiguation)]] — Sequence 9 [[Marauder]] through Sequence 0 [[Error]].
+- [[Fool Pathway (disambiguation)]] — Sequence 9 [[9 - Seer|Seer]] through Sequence 0 [[0 - Fool|Fool]].
+- [[Door Pathway (disambiguation)]] — Sequence 9 [[9 - Apprentice|Apprentice]] through Sequence 0 [[0 - Door|Door]].
+- [[Error Pathway (disambiguation)]] — Sequence 9 [[9 - Marauder|Marauder]] through Sequence 0 [[0 - Error|Error]].
 
 All three Sequence maps are populated from 9 to 0. Each Sequence note separates explicit abilities from Authority mapping.
 
@@ -35,7 +35,7 @@ All three Sequence maps are populated from 9 to 0. Each Sequence note separates 
 - [[King of Space-Time]] · [[Beacon of Destiny]] · [[Dominator of the Spirit World]] · [[Inconceivable and Bizarreness (Lord of Mysteries)]]
 - [[Change (Lord of Mysteries)]] · [[Foolishness (Fool)]] · [[Theft (Error)]] · [[Door (Symbolism)]]
 - [[Spirit World Dominion]] · [[Replication]] · [[Grafting and Reassembly]] · [[Fooling]] · [[Error (Authority)]]
-- Fool Authorities: [[Miracles (Fool)]] · [[Anchor of Destiny (Fool)]] · [[History (Fool)]] · [[Change (Fool)]]
+- Fool Authorities: [[Miracles (Fool)]] · [[Anchor of Destiny (Fool)]] · [[History (Fool)]] · [[Transformation (Fool)]]
 - Fool restricted or derived concepts: [[Concealment (Fool)]] · [[Fate (Fool)]]
 - Error: [[Time (Error)]] · [[Destiny (Error)]] · [[Deceit (Error)]]
 - Door Authorities: [[Door (Door Pathway)]] · [[Sealing (Door)]] · [[Space (Door)]] · [[Alternate Worlds (Door)]] · [[Position (Door)]]
@@ -46,4 +46,3 @@ All three Sequence maps are populated from 9 to 0. Each Sequence note separates 
 ## Conditional Sefirah Access
 
 Cross-Pathway use through [[Sefirah Castle]] is conditional access, not automatic Pathway inheritance. A Fool, Door, or Error Pathway holder must not be assigned another member Pathway's native Authorities solely because the Sefirah can mediate broader group-level effects.
-

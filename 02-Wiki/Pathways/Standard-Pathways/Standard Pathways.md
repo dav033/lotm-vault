@@ -8,7 +8,7 @@ source-confidence: medium-secondary
 
 # Standard Pathways
 
-The 22 Standard Pathways organized into nine canonical neighbouring groups.
+This medium-secondary knowledge map organizes the 22 Standard Pathways into nine neighbouring groups.
 
 ## Groups
 

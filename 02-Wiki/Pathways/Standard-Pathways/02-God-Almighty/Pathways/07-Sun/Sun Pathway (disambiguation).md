@@ -3,7 +3,7 @@ type: pathway
 status: interpretation
 spoilers: major
 sequence-0-name: Sun
-sequence-9: "[[Bard]]"
+sequence-9: "[[9 - Bard|Bard]]"
 group: "[[God Almighty Group]]"
 great-old-one: "[[God Almighty]]"
 sefirah: "[[Chaos Sea]]"
@@ -26,7 +26,7 @@ source-confidence: medium-secondary
 
 ## Sequences
 
-[[Bard]] · [[Light Suppliant]] · [[Solar High Priest]] · [[Notary]] · [[Priest of Light]] · [[Unshadowed]] · [[Justice Mentor]] · [[Lightseeker]] · [[White Angel]] · [[Sun]]
+[[9 - Bard|Bard]] · [[8 - Light Suppliant|Light Suppliant]] · [[7 - Solar High Priest|Solar High Priest]] · [[6 - Notary|Notary]] · [[5 - Priest of Light|Priest of Light]] · [[4 - Unshadowed|Unshadowed]] · [[3 - Justice Mentor|Justice Mentor]] · [[2 - Lightseeker|Lightseeker]] · [[1 - White Angel|White Angel]] · [[0 - Sun|Sun]]
 
 Every Sequence note separates **Explicit Powers** from **Authority → Power Mapping**.
 

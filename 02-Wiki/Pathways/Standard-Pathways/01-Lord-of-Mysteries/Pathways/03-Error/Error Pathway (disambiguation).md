@@ -3,7 +3,7 @@ type: pathway
 status: interpretation
 spoilers: major
 sequence-0-name: Error
-sequence-9: "[[Marauder]]"
+sequence-9: "[[9 - Marauder|Marauder]]"
 group: "[[Lord of Mysteries Group]]"
 great-old-one: "[[Lord of Mysteries]]"
 sefirah: "[[Sefirah Castle]]"
@@ -24,7 +24,7 @@ source-confidence: strong-inference
 
 ## Sequences
 
-[[Marauder]] · [[Swindler]] · [[Cryptologist]] · [[Prometheus]] · [[Dream Stealer]] · [[Parasite]] · [[Mentor of Deceit]] · [[Trojan Horse of Destiny]] · [[Worm of Time]] · [[Error]]
+[[9 - Marauder|Marauder]] · [[8 - Swindler|Swindler]] · [[7 - Cryptologist|Cryptologist]] · [[6 - Prometheus|Prometheus]] · [[5 - Dream Stealer|Dream Stealer]] · [[4 - Parasite|Parasite]] · [[3 - Mentor of Deceit|Mentor of Deceit]] · [[2 - Trojan Horse of Destiny|Trojan Horse of Destiny]] · [[1 - Worm of Time|Worm of Time]] · [[0 - Error|Error]]
 
 Every Sequence note separates **Explicit Powers** from **Authority → Power Mapping**.
 

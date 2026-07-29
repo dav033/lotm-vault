@@ -19,4 +19,4 @@ Related group: [[God Almighty Group]].
 
 ## Symbolic Derivation
 
-Described as arising from being "tainted by the [[Chaos Sea]]"; no independent parent Symbolism is confirmed.
+Described as arising from being "tainted by the [[Chaos Sea]]"; cited evidence does not establish an independent parent Symbolism.

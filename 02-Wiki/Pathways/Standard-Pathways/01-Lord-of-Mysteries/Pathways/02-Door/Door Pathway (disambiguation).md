@@ -3,7 +3,7 @@ type: pathway
 status: interpretation
 spoilers: major
 sequence-0-name: Door
-sequence-9: "[[Apprentice]]"
+sequence-9: "[[9 - Apprentice|Apprentice]]"
 group: "[[Lord of Mysteries Group]]"
 great-old-one: "[[Lord of Mysteries]]"
 sefirah: "[[Sefirah Castle]]"
@@ -26,7 +26,7 @@ source-confidence: strong-inference
 
 ## Sequences
 
-[[Apprentice]] · [[Trickmaster]] · [[Astrologer]] · [[Scribe]] · [[Traveler]] · [[Secrets Sorcerer]] · [[Wanderer]] · [[Planeswalker]] · [[Key of Stars]] · [[Door]]
+[[9 - Apprentice|Apprentice]] · [[8 - Trickmaster|Trickmaster]] · [[7 - Astrologer|Astrologer]] · [[6 - Scribe|Scribe]] · [[5 - Traveler|Traveler]] · [[4 - Secrets Sorcerer|Secrets Sorcerer]] · [[3 - Wanderer|Wanderer]] · [[2 - Planeswalker|Planeswalker]] · [[1 - Key of Stars|Key of Stars]] · [[0 - Door|Door]]
 
 Every Sequence note separates **Explicit Powers** from **Authority → Power Mapping**.
 
