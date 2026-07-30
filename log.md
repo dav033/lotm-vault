@@ -345,3 +345,7 @@
 - Researched and materially enriched exactly ten targets with Meaning, Expression in the Novels, Limits, Community Cross-check, and Sources: seven Fool-side concepts and three Error Authorities.
 - Promoted Fooling, Grafting/Reassembly, Miracles, Transformation, History, Anchor of Destiny, Error, Deceit, and Time to `canon` / `explicit-canon` using the existing exact-URL `official/high` Cuttlefish posts; retained Fate (Fool) as a restricted interpretation.
 - Corrected the ontology error `Change (Fool)`: deprecated the old basename for immutable-source link stability and replaced the Pathway Authority with [[Transformation (Fool)]]. Added separate web-research and Reddit cross-check notes without treating either as canonical evidence.
+
+# 2026-07-29 - TikTok content framework
+
+- Added the TikTok production hub, MCP card guide, and a comedy-first Pathway framework using varied Reddit-native formats while preserving the vault's ontology, evidence, and spoiler gates; updated the content index.
