@@ -37,3 +37,7 @@ Knowledge base for *Lord of the Mysteries*.
 
 Counts reflect current Markdown notes, excluding [[Sources Registry]] from processed-source totals. See [[Pending Review]].
 
+## Project material (non-canon, not part of the counts above)
+
+`10-Project/` holds business/engineering decisions for the Archivo de Misterios game and TikTok channel. It is out of scope for the epistemic model, evidence rules, and counts on this page. Start at [[10-Project/README|10-Project]].
+
