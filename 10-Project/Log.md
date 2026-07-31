@@ -51,3 +51,9 @@ Registro cronológico. Ver [[README]] para el porqué de esta carpeta. No sigue 
 ## 2026-07-30 — Esta carpeta de Obsidian
 
 - Se creó `10-Project/` como arquitectura paralela dentro de este mismo vault para que las decisiones de negocio/ingeniería del juego y el canal persistan junto al trabajo de lore, sin violar las reglas estrictas de `AGENTS.md` (que solo gobiernan conocimiento canónico de la novela). Ver [[README]].
+
+## 2026-07-30 — Sistema de cartas y contrato MCP
+
+- Se consolidaron en [[Sistema de Cartas]] los trece tipos disponibles, variantes de `Tarot Member` y `Corruption File`, decisiones de layout adaptativo, reglas de humor autocontenido, tratamiento de imágenes, ZIP, vídeo y contrato MCP.
+- `Corruption File.showIncidentNumber` queda expuesto tanto en UI (`Hidden / Visible`) como en MCP, con valor predeterminado `false`; el número visible es puramente decorativo.
+- Contrato de producción actualizado a `lotm-card-studio` `1.3.0`. Commits de implementación: `3d830b1` y `48992c5` en `lotm-game`.

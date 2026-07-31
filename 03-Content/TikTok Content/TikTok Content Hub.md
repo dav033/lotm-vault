@@ -6,11 +6,14 @@ spoilers: major
 
 # TikTok Content Hub
 
+> Spoiler level: major.
+
 This folder contains production frameworks and presentation-layer documentation for LOTM TikTok carousels. The target voice is comedy-first, internet-native, and accurate: the viewer should laugh because the lore is absurd when framed clearly, not because unrelated memes were pasted over it. This folder is not an evidence source. Every factual card must be derived from `02-Wiki/` and must preserve the linked note's epistemic status and spoiler level.
 
 ## Production Guides
 
 - [[Card MCP Usage Guide]] — card formats, field limits, visual intent, and MCP workflow.
+- [[Sistema de Cartas]] — durable record of card families, project-specific choices, layout rules, exports, and MCP-visible options.
 - [[Pathway Explainer Framework]] — comedy-first structure modeled on the Error Pathway project, with different fictional formats for Symbolisms, Authorities, Powers, progression, and boundaries.
 
 ## Reference Project

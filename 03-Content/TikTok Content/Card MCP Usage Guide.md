@@ -6,7 +6,11 @@ spoilers: major
 
 # Card MCP Usage Guide
 
+> Spoiler level: major.
+
 This guide documents the presentation layer used by the `lotm` MCP. It governs how to choose card formats and assemble projects; it does not replace the evidence, ontology, or spoiler rules of the vault.
+
+The durable engineering and design record is [[Sistema de Cartas]].
 
 ## Standard workflow
 
@@ -26,6 +30,7 @@ This guide documents the presentation layer used by the `lotm` MCP. It governs h
 - `backgroundOpacity` ranges from `0` to `100`; the default is `65`.
 - A custom background overrides a Pathway-provided background.
 - Background art supports the hierarchy. It must not reduce contrast or become the primary source of meaning.
+- Background visibility is implemented as image opacity plus a separate veil opacity. Keep those properties separate so browser dark-mode extensions cannot turn a translucent veil opaque and hide the image.
 
 ## Card type selection
 
@@ -43,6 +48,7 @@ This guide documents the presentation layer used by the `lotm` MCP. It governs h
 | `Breakdown` | One concept with scope and boundary | `title`, `does`, `doesNot`, `edgeText` | Recipes, long lists, timelines, or several unrelated concepts |
 | `Map` | Ontology, progression, comparison, reference rows, or structured recap | `title`, 1–8 `entries` | A single emotional or argumentative point needs visual dominance |
 | `Tarot Member` | Character analysis with deliberate visual variety | `variant`, `name`, `tarotTitle`, `description`, `detailText` | Recording Sequence statistics or explaining a non-character concept |
+| `Corruption File` | Comedy-first incident, inside joke, warning, or context autopsy | `variant`, `incident`, `explanation`, `reaction`, `corruptionLevel` | A lore ranking, ordinary character profile, or dense ontology map |
 
 ## Practical field limits
 
@@ -62,15 +68,27 @@ This guide documents the presentation layer used by the `lotm` MCP. It governs h
 
 Shared limits: name up to 80; Tarot title up to 40; description up to 360; secondary label up to 36; secondary text up to 280; footer up to 180. An optional `pathway` supplies the accent and fallback art.
 
+Color decisions are presentation metadata, not canon. The editor exposes a color selector because each member benefits from a distinct visual identity; an explicit accent overrides the Pathway palette without asserting that the chosen color is canonical.
+
+### Corruption File compositions
+
+- `Warning`: high-contrast hazard poster. Use for opening warnings, catastrophic punchlines, or the fastest stop-scroll card.
+- `Evidence`: meme-autopsy file. Use when explanation and reaction need equal weight. The renderer switches from columns to a stacked layout when the incident title is long.
+- `Quote`: context-collapse poster. Use when the reaction or quoted-style punchline is the visual climax.
+
+Shared limits: incident up to 90; explanation label up to 40; explanation up to 320; reaction label up to 40; reaction up to 280; footer up to 180. `corruptionLevel` is `Low`, `Moderate`, `Severe`, or `Catastrophic`; `accentColor`, `imageUrl`, and `backgroundOpacity` control presentation.
+
+`showIncidentNumber` is an exposed boolean in both the editor and MCP. Its default is `false`. When `true`, the component shows a deliberately fictional four-digit number in the header and background. The value is decorative, calculated from incident-title length, and must never be treated as lore, chronology, Sequence data, or evidence.
+
 ## Narrative functions
 
-Every format should perform one narrative job. In comedy-first projects, the format may impersonate an everyday object: a Reddit thread, safety notice, bug report, job brochure, product review, or terms-and-conditions page.
+Every format should perform one narrative job. In comedy-first projects, the format may impersonate an everyday object: a forum thread, safety notice, bug report, job brochure, product review, or terms-and-conditions page.
 
 | Narrative job | Preferred type |
 | --- | --- |
 | Stop the scroll | `Full Image Cover` or one `Pathway Explanation` |
 | State the funny but defensible thesis | `Pathway Explanation` |
-| Fake a Reddit thread or customer reviews | `Map` with OP/reply/note/verdict rows |
+| Fake a forum thread or customer reviews | `Map` with OP/reply/note/verdict rows |
 | Present benefits, hazards, or patch notes | `Map` |
 | Explain a feature and its fine print | `Breakdown` |
 | Deliver a Community Note, warning, or legal notice | `General Explanation` |
@@ -86,7 +104,7 @@ These compositions use the existing schema; they are not additional card types.
 
 | Fictional format | Recommended sequence | Best use |
 | --- | --- | --- |
-| Reddit argument | `Pathway Explanation` → `Map` → `General Explanation` | Hot take, replies, correction, verdict |
+| Forum argument | `Pathway Explanation` → `Map` → `General Explanation` | Hot take, replies, correction, verdict |
 | Bug report | `General Explanation` → `Breakdown` → `Map` | Trigger, exploit, affected system, failed fix |
 | Career brochure | `Pathway Explanation` → `Map` → `Breakdown` | Benefits, promotion ladder, hidden fees |
 | Terms and conditions | `Breakdown` → `General Explanation` | Scope, resistance, ownership, conditional access |
@@ -98,6 +116,7 @@ Give each part one dominant fictional format. Do not reuse the same card order f
 ## Writing rules for cards
 
 - Use English for published cards unless a project explicitly establishes another language.
+- Final card copy must remain self-contained. Research may use community sources for tone discovery, but published cards must not mention Reddit, websites, posts, users, or other external platforms unless the project explicitly requires that framing.
 - Make the Pathway itself generate the joke. Do not bolt a generic meme onto an encyclopedia paragraph.
 - A card should move through comic premise → real mechanic → consequence → fine print.
 - The punchline must depend on the factual mechanism; otherwise it is replaceable filler.
@@ -131,6 +150,8 @@ Adding a type requires coordinated changes. A partial implementation may save su
 8. Update the MCP tool description.
 9. Test validation, round-trip conversion, all visual variants, and static export.
 10. Restart the MCP process so the exposed input schema includes the new discriminator.
+
+Current production contract: `lotm-card-studio` version `1.3.0`. `Corruption File` exposes `showIncidentNumber` through `save_card_batch` and `update_card`.
 
 ## Verification checklist
 

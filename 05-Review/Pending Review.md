@@ -74,6 +74,7 @@ path:"02-Wiki/Pathways/Standard-Pathways" [type:sequence] [status:interpretation
 - The current clipping integration added 21 source notes and 168 numbered Sequence notes, completed 17 Pathway maps, and numbered all 22 Standard Pathway folders. All 21 supplied source bodies were verified unchanged after ingestion.
 - The managed vault audit found zero duplicate basenames, unresolved or ambiguous links, accidental self-links, orphaned `02-Wiki` notes, missing mandatory fields, invalid statuses, and template placeholders outside `06-Templates/`.
 - The source bodies for [[Lord of Mysteries Wiki - Door Pathway Abilities]] and [[Lord of Mysteries Wiki - Error Pathway Abilities]] were restored to their pre-ingestion content; no source-body immutability debt remains from that repair.
+- Current repository audit finds duplicate basename `log`: root `log.md` and `10-Project/Log.md`. This pre-existing collision blocks a clean hard-completion report until one note is renamed and all links are audited.
 
 ## Counting Rule
 

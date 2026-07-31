@@ -20,14 +20,15 @@ Nada de lo que vive en `10-Project/` es lore de la novela. Es el registro de un 
 
 ## Contenido
 
-- [[Log|Log de decisiones]] — registro cronológico de decisiones de proyecto, sesión por sesión.
+- [[10-Project/Log|Log de decisiones]] — registro cronológico de decisiones de proyecto, sesión por sesión.
 - [[IP y Riesgo Legal|IP y Riesgo Legal]] — investigación de derechos, fecha ancla, plan de contingencia.
 - [[Arquitectura del Juego|Arquitectura del Juego]] — stack técnico, decisiones de diseño de datos, estado actual del código.
+- [[Sistema de Cartas|Sistema de Cartas]] — tipos, composiciones, decisiones visuales, reglas de copy, exportación y contrato MCP.
 - [[Estrategia de TikTok y Validación|Estrategia de TikTok y Validación]] — tracción del canal, plan de prueba de valor del juego.
 - [[Deliberacion del Consejo - Ronda 9|Deliberación del Consejo — Ronda 9]] — transcripción completa de la sesión donde se replanteó (y revirtió) la decisión de genericar nombres canónicos.
 
 ## Convención mínima (no las reglas de AGENTS.md)
 
 - Cada nota lleva `updated:` con la fecha de la última edición.
-- Nuevas decisiones se agregan al final de [[Log]], no se reescribe el historial.
+- Nuevas decisiones se agregan al final de [[10-Project/Log|Log]], no se reescribe el historial.
 - Si una decisión cambia, se anota el cambio con fecha — no se borra la decisión anterior sin dejar rastro.
